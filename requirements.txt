@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+datasets
+transformers
+scikit-learn
+langchain
+langchain-openai
+langgraph
+tqdm
+google
+python-dotenv
+torch
+accelerate
+matplotlib
