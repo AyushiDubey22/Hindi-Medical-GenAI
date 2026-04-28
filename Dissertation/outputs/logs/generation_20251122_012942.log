@@ -1,0 +1,857 @@
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] 🔧 Setting up Gemini API...
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] ✅ Gemini configured: gemini-2.5-flash
+[2025-11-22 01:29:42] [INFO] 
+======================================================================
+[2025-11-22 01:29:42] [INFO] 🧬 PRODUCTION Hindi Medical Synthetic Generator
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] 📦 Model: gemini-2.5-flash
+[2025-11-22 01:29:42] [INFO] 📁 Log file: C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\outputs\logs\generation_20251122_012942.log
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] 
+======================================================================
+[2025-11-22 01:29:42] [INFO] 1️⃣  DISCHARGE SUMMARIES
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:42] [INFO] 📄 Processing: discharge.csv
+[2025-11-22 01:29:42] [INFO] ======================================================================
+[2025-11-22 01:29:43] [INFO] ✅ Loaded 1147 total records
+[2025-11-22 01:29:43] [INFO] 🎯 Generating 100 samples (index 0 to 100)
+[2025-11-22 01:29:43] [INFO] ⏱️  Estimated time: ~5.0 minutes
+
+[2025-11-22 01:29:43] [INFO] 
+[1/100] Processing ID: 10202247-DS-15
+[2025-11-22 01:29:43] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:29:55] [SUCCESS]   ✅ Success! 703 chars
+[2025-11-22 01:29:57] [INFO] 
+[2/100] Processing ID: 12784119-DS-19
+[2025-11-22 01:29:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:30:11] [INFO] 
+[3/100] Processing ID: 16314105-DS-3
+[2025-11-22 01:30:11] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:30:21] [SUCCESS]   ✅ Success! 1970 chars
+[2025-11-22 01:30:23] [INFO] 
+[4/100] Processing ID: 16805731-DS-23
+[2025-11-22 01:30:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:30:34] [SUCCESS]   ✅ Success! 2627 chars
+[2025-11-22 01:30:36] [INFO] 
+[5/100] Processing ID: 14334225-DS-10
+[2025-11-22 01:30:36] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:30:48] [SUCCESS]   ✅ Success! 2310 chars
+[2025-11-22 01:30:50] [INFO] 
+[6/100] Processing ID: 19250667-DS-6
+[2025-11-22 01:30:50] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:31:04] [INFO] 
+[7/100] Processing ID: 15427009-DS-22
+[2025-11-22 01:31:04] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:31:18] [INFO] 
+[8/100] Processing ID: 10074117-DS-23
+[2025-11-22 01:31:18] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:31:30] [SUCCESS]   ✅ Success! 1498 chars
+[2025-11-22 01:31:32] [INFO] 
+[9/100] Processing ID: 16149168-DS-9
+[2025-11-22 01:31:32] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:31:43] [WARNING]   ⚠️ Output too short (117 chars)
+[2025-11-22 01:31:45] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:31:58] [INFO] 
+[10/100] Processing ID: 18253112-DS-28
+[2025-11-22 01:31:58] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:32:09] [SUCCESS]   ✅ Success! 1618 chars
+[2025-11-22 01:32:09] [INFO] 💾 Progress saved: 10 samples
+[2025-11-22 01:32:11] [INFO] 
+[11/100] Processing ID: 15592548-DS-22
+[2025-11-22 01:32:11] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:32:24] [SUCCESS]   ✅ Success! 1588 chars
+[2025-11-22 01:32:26] [INFO] 
+[12/100] Processing ID: 19802210-DS-11
+[2025-11-22 01:32:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:32:36] [SUCCESS]   ✅ Success! 1773 chars
+[2025-11-22 01:32:38] [INFO] 
+[13/100] Processing ID: 11160857-DS-3
+[2025-11-22 01:32:38] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:32:50] [SUCCESS]   ✅ Success! 2407 chars
+[2025-11-22 01:32:52] [INFO] 
+[14/100] Processing ID: 15695321-DS-13
+[2025-11-22 01:32:52] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:33:05] [SUCCESS]   ✅ Success! 2475 chars
+[2025-11-22 01:33:07] [INFO] 
+[15/100] Processing ID: 17551960-DS-8
+[2025-11-22 01:33:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:33:18] [SUCCESS]   ✅ Success! 705 chars
+[2025-11-22 01:33:20] [INFO] 
+[16/100] Processing ID: 19189853-DS-17
+[2025-11-22 01:33:20] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:33:32] [SUCCESS]   ✅ Success! 2724 chars
+[2025-11-22 01:33:34] [INFO] 
+[17/100] Processing ID: 12423317-DS-21
+[2025-11-22 01:33:34] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:33:47] [INFO] 
+[18/100] Processing ID: 17201369-DS-15
+[2025-11-22 01:33:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:34:01] [INFO] 
+[19/100] Processing ID: 19408205-DS-16
+[2025-11-22 01:34:01] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:34:13] [SUCCESS]   ✅ Success! 2733 chars
+[2025-11-22 01:34:15] [INFO] 
+[20/100] Processing ID: 12097404-DS-19
+[2025-11-22 01:34:15] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:34:26] [SUCCESS]   ✅ Success! 2779 chars
+[2025-11-22 01:34:26] [INFO] 💾 Progress saved: 20 samples
+[2025-11-22 01:34:28] [INFO] 
+[21/100] Processing ID: 14260002-DS-10
+[2025-11-22 01:34:28] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:34:39] [SUCCESS]   ✅ Success! 1126 chars
+[2025-11-22 01:34:41] [INFO] 
+[22/100] Processing ID: 19131048-DS-23
+[2025-11-22 01:34:41] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:34:53] [WARNING]   ⚠️ Output too short (154 chars)
+[2025-11-22 01:34:55] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:35:06] [SUCCESS]   ✅ Success! 1752 chars
+[2025-11-22 01:35:08] [INFO] 
+[23/100] Processing ID: 12260640-DS-22
+[2025-11-22 01:35:08] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:35:21] [SUCCESS]   ✅ Success! 2774 chars
+[2025-11-22 01:35:23] [INFO] 
+[24/100] Processing ID: 10193295-DS-3
+[2025-11-22 01:35:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:35:37] [INFO] 
+[25/100] Processing ID: 18475503-DS-21
+[2025-11-22 01:35:37] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:35:49] [SUCCESS]   ✅ Success! 2739 chars
+[2025-11-22 01:35:51] [INFO] 
+[26/100] Processing ID: 15348168-DS-14
+[2025-11-22 01:35:51] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:36:02] [WARNING]   ⚠️ Output too short (153 chars)
+[2025-11-22 01:36:04] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:36:17] [INFO] 
+[27/100] Processing ID: 17200404-DS-48
+[2025-11-22 01:36:17] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:36:29] [WARNING]   ⚠️ Output too short (10 chars)
+[2025-11-22 01:36:31] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:36:42] [SUCCESS]   ✅ Success! 2209 chars
+[2025-11-22 01:36:44] [INFO] 
+[28/100] Processing ID: 15455517-DS-19
+[2025-11-22 01:36:44] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:36:58] [INFO] 
+[29/100] Processing ID: 10029806-DS-7
+[2025-11-22 01:36:58] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:37:10] [SUCCESS]   ✅ Success! 2086 chars
+[2025-11-22 01:37:12] [INFO] 
+[30/100] Processing ID: 12916026-DS-13
+[2025-11-22 01:37:12] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:37:23] [SUCCESS]   ✅ Success! 1227 chars
+[2025-11-22 01:37:23] [INFO] 💾 Progress saved: 30 samples
+[2025-11-22 01:37:25] [INFO] 
+[31/100] Processing ID: 19013872-DS-12
+[2025-11-22 01:37:25] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:37:39] [INFO] 
+[32/100] Processing ID: 18258248-DS-8
+[2025-11-22 01:37:39] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:37:50] [SUCCESS]   ✅ Success! 2400 chars
+[2025-11-22 01:37:52] [INFO] 
+[33/100] Processing ID: 19813403-DS-11
+[2025-11-22 01:37:52] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:38:04] [SUCCESS]   ✅ Success! 1193 chars
+[2025-11-22 01:38:06] [INFO] 
+[34/100] Processing ID: 18642746-DS-3
+[2025-11-22 01:38:06] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:38:17] [SUCCESS]   ✅ Success! 2800 chars
+[2025-11-22 01:38:19] [INFO] 
+[35/100] Processing ID: 11438336-DS-22
+[2025-11-22 01:38:19] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:38:31] [SUCCESS]   ✅ Success! 732 chars
+[2025-11-22 01:38:33] [INFO] 
+[36/100] Processing ID: 19437158-DS-2
+[2025-11-22 01:38:33] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:38:47] [INFO] 
+[37/100] Processing ID: 13480284-DS-6
+[2025-11-22 01:38:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:38:58] [SUCCESS]   ✅ Success! 2644 chars
+[2025-11-22 01:39:00] [INFO] 
+[38/100] Processing ID: 12495686-DS-2
+[2025-11-22 01:39:00] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:39:12] [SUCCESS]   ✅ Success! 2765 chars
+[2025-11-22 01:39:14] [INFO] 
+[39/100] Processing ID: 18551287-DS-18
+[2025-11-22 01:39:14] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:39:29] [INFO] 
+[40/100] Processing ID: 15275357-DS-17
+[2025-11-22 01:39:29] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:39:41] [WARNING]   ⚠️ Output too short (170 chars)
+[2025-11-22 01:39:43] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:39:55] [SUCCESS]   ✅ Success! 1994 chars
+[2025-11-22 01:39:55] [INFO] 💾 Progress saved: 40 samples
+[2025-11-22 01:39:57] [INFO] 
+[41/100] Processing ID: 14867461-DS-8
+[2025-11-22 01:39:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:40:09] [SUCCESS]   ✅ Success! 2264 chars
+[2025-11-22 01:40:11] [INFO] 
+[42/100] Processing ID: 13598803-DS-17
+[2025-11-22 01:40:11] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:40:26] [INFO] 
+[43/100] Processing ID: 13345447-DS-27
+[2025-11-22 01:40:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:40:39] [INFO] 
+[44/100] Processing ID: 18711109-DS-11
+[2025-11-22 01:40:39] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:40:52] [INFO] 
+[45/100] Processing ID: 17446715-DS-2
+[2025-11-22 01:40:52] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:41:04] [SUCCESS]   ✅ Success! 3179 chars
+[2025-11-22 01:41:06] [INFO] 
+[46/100] Processing ID: 12559306-DS-8
+[2025-11-22 01:41:06] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:41:18] [SUCCESS]   ✅ Success! 1847 chars
+[2025-11-22 01:41:20] [INFO] 
+[47/100] Processing ID: 16692410-DS-14
+[2025-11-22 01:41:20] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:41:33] [INFO] 
+[48/100] Processing ID: 10354450-DS-23
+[2025-11-22 01:41:33] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:41:45] [SUCCESS]   ✅ Success! 2431 chars
+[2025-11-22 01:41:47] [INFO] 
+[49/100] Processing ID: 18343582-DS-6
+[2025-11-22 01:41:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:41:59] [SUCCESS]   ✅ Success! 2574 chars
+[2025-11-22 01:42:01] [INFO] 
+[50/100] Processing ID: 15463422-DS-3
+[2025-11-22 01:42:01] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:42:12] [SUCCESS]   ✅ Success! 2057 chars
+[2025-11-22 01:42:12] [INFO] 💾 Progress saved: 50 samples
+[2025-11-22 01:42:14] [INFO] 
+[51/100] Processing ID: 15737439-DS-4
+[2025-11-22 01:42:14] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:42:28] [INFO] 
+[52/100] Processing ID: 16613366-DS-9
+[2025-11-22 01:42:28] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:42:39] [SUCCESS]   ✅ Success! 1010 chars
+[2025-11-22 01:42:41] [INFO] 
+[53/100] Processing ID: 16451061-DS-15
+[2025-11-22 01:42:41] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:42:52] [SUCCESS]   ✅ Success! 2355 chars
+[2025-11-22 01:42:54] [INFO] 
+[54/100] Processing ID: 19531856-DS-27
+[2025-11-22 01:42:54] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:43:05] [SUCCESS]   ✅ Success! 2712 chars
+[2025-11-22 01:43:07] [INFO] 
+[55/100] Processing ID: 15426345-DS-20
+[2025-11-22 01:43:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:43:19] [SUCCESS]   ✅ Success! 1652 chars
+[2025-11-22 01:43:21] [INFO] 
+[56/100] Processing ID: 12144619-DS-6
+[2025-11-22 01:43:21] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:43:32] [SUCCESS]   ✅ Success! 2034 chars
+[2025-11-22 01:43:34] [INFO] 
+[57/100] Processing ID: 10180204-DS-17
+[2025-11-22 01:43:34] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:43:46] [SUCCESS]   ✅ Success! 1318 chars
+[2025-11-22 01:43:48] [INFO] 
+[58/100] Processing ID: 12138659-DS-12
+[2025-11-22 01:43:48] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:44:01] [INFO] 
+[59/100] Processing ID: 14968931-DS-3
+[2025-11-22 01:44:01] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:44:13] [SUCCESS]   ✅ Success! 3055 chars
+[2025-11-22 01:44:15] [INFO] 
+[60/100] Processing ID: 17002060-DS-11
+[2025-11-22 01:44:15] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:44:27] [SUCCESS]   ✅ Success! 2552 chars
+[2025-11-22 01:44:27] [INFO] 💾 Progress saved: 60 samples
+[2025-11-22 01:44:29] [INFO] 
+[61/100] Processing ID: 19542080-DS-13
+[2025-11-22 01:44:29] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:44:43] [INFO] 
+[62/100] Processing ID: 11734276-DS-5
+[2025-11-22 01:44:43] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:44:57] [INFO] 
+[63/100] Processing ID: 10302356-DS-24
+[2025-11-22 01:44:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:45:10] [INFO] 
+[64/100] Processing ID: 19663491-DS-5
+[2025-11-22 01:45:10] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:45:21] [SUCCESS]   ✅ Success! 2528 chars
+[2025-11-22 01:45:23] [INFO] 
+[65/100] Processing ID: 11172413-DS-19
+[2025-11-22 01:45:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:45:35] [SUCCESS]   ✅ Success! 722 chars
+[2025-11-22 01:45:37] [INFO] 
+[66/100] Processing ID: 15610977-DS-6
+[2025-11-22 01:45:37] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:45:49] [SUCCESS]   ✅ Success! 1297 chars
+[2025-11-22 01:45:51] [INFO] 
+[67/100] Processing ID: 12775971-DS-28
+[2025-11-22 01:45:51] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:46:02] [SUCCESS]   ✅ Success! 1101 chars
+[2025-11-22 01:46:04] [INFO] 
+[68/100] Processing ID: 15913953-DS-15
+[2025-11-22 01:46:04] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:46:16] [SUCCESS]   ✅ Success! 1842 chars
+[2025-11-22 01:46:18] [INFO] 
+[69/100] Processing ID: 18940040-DS-5
+[2025-11-22 01:46:18] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:46:30] [SUCCESS]   ✅ Success! 2983 chars
+[2025-11-22 01:46:32] [INFO] 
+[70/100] Processing ID: 15203332-DS-6
+[2025-11-22 01:46:32] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:46:44] [SUCCESS]   ✅ Success! 2102 chars
+[2025-11-22 01:46:44] [INFO] 💾 Progress saved: 70 samples
+[2025-11-22 01:46:46] [INFO] 
+[71/100] Processing ID: 12557139-DS-27
+[2025-11-22 01:46:46] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:46:57] [SUCCESS]   ✅ Success! 2550 chars
+[2025-11-22 01:46:59] [INFO] 
+[72/100] Processing ID: 12468016-DS-13
+[2025-11-22 01:46:59] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:47:11] [SUCCESS]   ✅ Success! 2106 chars
+[2025-11-22 01:47:13] [INFO] 
+[73/100] Processing ID: 19190007-DS-21
+[2025-11-22 01:47:13] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:47:26] [INFO] 
+[74/100] Processing ID: 10762995-DS-15
+[2025-11-22 01:47:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:47:38] [SUCCESS]   ✅ Success! 1233 chars
+[2025-11-22 01:47:40] [INFO] 
+[75/100] Processing ID: 12050380-DS-21
+[2025-11-22 01:47:40] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:47:51] [SUCCESS]   ✅ Success! 2961 chars
+[2025-11-22 01:47:53] [INFO] 
+[76/100] Processing ID: 10197263-DS-19
+[2025-11-22 01:47:53] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:48:05] [SUCCESS]   ✅ Success! 1735 chars
+[2025-11-22 01:48:07] [INFO] 
+[77/100] Processing ID: 18791538-DS-16
+[2025-11-22 01:48:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:48:18] [SUCCESS]   ✅ Success! 937 chars
+[2025-11-22 01:48:20] [INFO] 
+[78/100] Processing ID: 15086322-DS-17
+[2025-11-22 01:48:20] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:48:33] [INFO] 
+[79/100] Processing ID: 17302570-DS-7
+[2025-11-22 01:48:33] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:48:45] [SUCCESS]   ✅ Success! 3322 chars
+[2025-11-22 01:48:47] [INFO] 
+[80/100] Processing ID: 12219674-DS-18
+[2025-11-22 01:48:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:48:58] [INFO] 💾 Progress saved: 80 samples
+[2025-11-22 01:49:00] [INFO] 
+[81/100] Processing ID: 16736246-DS-11
+[2025-11-22 01:49:00] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:49:13] [INFO] 
+[82/100] Processing ID: 16199928-DS-18
+[2025-11-22 01:49:13] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:49:24] [SUCCESS]   ✅ Success! 373 chars
+[2025-11-22 01:49:26] [INFO] 
+[83/100] Processing ID: 18084941-DS-8
+[2025-11-22 01:49:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:49:38] [SUCCESS]   ✅ Success! 1904 chars
+[2025-11-22 01:49:40] [INFO] 
+[84/100] Processing ID: 14711950-DS-18
+[2025-11-22 01:49:40] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:49:51] [SUCCESS]   ✅ Success! 1665 chars
+[2025-11-22 01:49:53] [INFO] 
+[85/100] Processing ID: 12314006-DS-20
+[2025-11-22 01:49:53] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:50:04] [SUCCESS]   ✅ Success! 2540 chars
+[2025-11-22 01:50:06] [INFO] 
+[86/100] Processing ID: 12453158-DS-22
+[2025-11-22 01:50:06] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:50:18] [SUCCESS]   ✅ Success! 2066 chars
+[2025-11-22 01:50:20] [INFO] 
+[87/100] Processing ID: 17259266-DS-6
+[2025-11-22 01:50:20] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:50:31] [SUCCESS]   ✅ Success! 2314 chars
+[2025-11-22 01:50:33] [INFO] 
+[88/100] Processing ID: 11392962-DS-20
+[2025-11-22 01:50:33] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:50:45] [SUCCESS]   ✅ Success! 1686 chars
+[2025-11-22 01:50:47] [INFO] 
+[89/100] Processing ID: 11170690-DS-10
+[2025-11-22 01:50:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:50:58] [SUCCESS]   ✅ Success! 2410 chars
+[2025-11-22 01:51:00] [INFO] 
+[90/100] Processing ID: 19297337-DS-7
+[2025-11-22 01:51:00] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:51:11] [SUCCESS]   ✅ Success! 2470 chars
+[2025-11-22 01:51:11] [INFO] 💾 Progress saved: 90 samples
+[2025-11-22 01:51:13] [INFO] 
+[91/100] Processing ID: 18549835-DS-17
+[2025-11-22 01:51:13] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:51:24] [SUCCESS]   ✅ Success! 2560 chars
+[2025-11-22 01:51:26] [INFO] 
+[92/100] Processing ID: 18734362-DS-13
+[2025-11-22 01:51:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:51:37] [SUCCESS]   ✅ Success! 937 chars
+[2025-11-22 01:51:39] [INFO] 
+[93/100] Processing ID: 18361047-DS-15
+[2025-11-22 01:51:39] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:51:52] [SUCCESS]   ✅ Success! 1630 chars
+[2025-11-22 01:51:54] [INFO] 
+[94/100] Processing ID: 18799490-DS-11
+[2025-11-22 01:51:54] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:52:07] [INFO] 
+[95/100] Processing ID: 15779915-DS-3
+[2025-11-22 01:52:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:52:18] [SUCCESS]   ✅ Success! 691 chars
+[2025-11-22 01:52:20] [INFO] 
+[96/100] Processing ID: 12340737-DS-34
+[2025-11-22 01:52:20] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:52:31] [WARNING]   ⚠️ Output too short (116 chars)
+[2025-11-22 01:52:33] [DEBUG]   Attempt 2/3...
+[2025-11-22 01:52:44] [SUCCESS]   ✅ Success! 2434 chars
+[2025-11-22 01:52:46] [INFO] 
+[97/100] Processing ID: 10526582-DS-8
+[2025-11-22 01:52:46] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:52:59] [INFO] 
+[98/100] Processing ID: 14606921-DS-8
+[2025-11-22 01:52:59] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:53:11] [SUCCESS]   ✅ Success! 1216 chars
+[2025-11-22 01:53:13] [INFO] 
+[99/100] Processing ID: 16583295-DS-3
+[2025-11-22 01:53:13] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:53:24] [SUCCESS]   ✅ Success! 2651 chars
+[2025-11-22 01:53:26] [INFO] 
+[100/100] Processing ID: 17318449-DS-29
+[2025-11-22 01:53:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:53:38] [SUCCESS]   ✅ Success! 2970 chars
+[2025-11-22 01:53:38] [INFO] 💾 Progress saved: 100 samples
+[2025-11-22 01:53:40] [INFO] 
+======================================================================
+[2025-11-22 01:53:40] [INFO] 📊 BATCH STATISTICS
+[2025-11-22 01:53:40] [INFO] ======================================================================
+[2025-11-22 01:53:40] [INFO] ✅ Total Success: 73/100 (73.0%)
+[2025-11-22 01:53:40] [INFO] 📏 Avg length: 2018 chars
+[2025-11-22 01:53:40] [INFO] ⏱️  Total time: 20.6 minutes
+[2025-11-22 01:53:40] [INFO] 💾 Saved to: C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\data\processed\synthetic_discharge_hindi_100.csv
+[2025-11-22 01:53:40] [INFO] 
+⚠️  Error Summary:
+[2025-11-22 01:53:40] [INFO]    • content_filtered: 27
+[2025-11-22 01:53:40] [INFO] 
+======================================================================
+[2025-11-22 01:53:40] [INFO] 2️⃣  RADIOLOGY REPORTS
+[2025-11-22 01:53:40] [INFO] ======================================================================
+[2025-11-22 01:53:40] [INFO] ======================================================================
+[2025-11-22 01:53:40] [INFO] 📄 Processing: radiology_sample.csv
+[2025-11-22 01:53:40] [INFO] ======================================================================
+[2025-11-22 01:53:40] [INFO] ✅ Loaded 1000 total records
+[2025-11-22 01:53:40] [INFO] 🎯 Generating 100 samples (index 0 to 100)
+[2025-11-22 01:53:40] [INFO] ⏱️  Estimated time: ~5.0 minutes
+
+[2025-11-22 01:53:40] [INFO] 
+[1/100] Processing ID: 12105403-RR-51
+[2025-11-22 01:53:40] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:53:52] [SUCCESS]   ✅ Success! 2030 chars
+[2025-11-22 01:53:54] [INFO] 
+[2/100] Processing ID: 18301101-RR-35
+[2025-11-22 01:53:54] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:54:05] [SUCCESS]   ✅ Success! 1531 chars
+[2025-11-22 01:54:07] [INFO] 
+[3/100] Processing ID: 13935134-RR-30
+[2025-11-22 01:54:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:54:21] [INFO] 
+[4/100] Processing ID: 10232271-RR-4
+[2025-11-22 01:54:21] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:54:32] [SUCCESS]   ✅ Success! 836 chars
+[2025-11-22 01:54:34] [INFO] 
+[5/100] Processing ID: 19913826-RR-22
+[2025-11-22 01:54:34] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:54:45] [SUCCESS]   ✅ Success! 445 chars
+[2025-11-22 01:54:47] [INFO] 
+[6/100] Processing ID: 18448597-RR-50
+[2025-11-22 01:54:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:54:59] [INFO] 
+[7/100] Processing ID: 12648153-RR-41
+[2025-11-22 01:54:59] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:55:11] [SUCCESS]   ✅ Success! 1866 chars
+[2025-11-22 01:55:13] [INFO] 
+[8/100] Processing ID: 19507661-RR-27
+[2025-11-22 01:55:13] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:55:24] [SUCCESS]   ✅ Success! 2517 chars
+[2025-11-22 01:55:26] [INFO] 
+[9/100] Processing ID: 12350239-RR-11
+[2025-11-22 01:55:26] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:55:37] [SUCCESS]   ✅ Success! 2962 chars
+[2025-11-22 01:55:39] [INFO] 
+[10/100] Processing ID: 10531408-RR-22
+[2025-11-22 01:55:39] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:55:51] [SUCCESS]   ✅ Success! 2481 chars
+[2025-11-22 01:55:51] [INFO] 💾 Progress saved: 10 samples
+[2025-11-22 01:55:53] [INFO] 
+[11/100] Processing ID: 18394498-RR-12
+[2025-11-22 01:55:53] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:56:06] [INFO] 
+[12/100] Processing ID: 17983244-RR-71
+[2025-11-22 01:56:06] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:56:17] [SUCCESS]   ✅ Success! 1391 chars
+[2025-11-22 01:56:19] [INFO] 
+[13/100] Processing ID: 11622398-RR-80
+[2025-11-22 01:56:19] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:56:30] [SUCCESS]   ✅ Success! 2674 chars
+[2025-11-22 01:56:32] [INFO] 
+[14/100] Processing ID: 17051344-RR-78
+[2025-11-22 01:56:32] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:56:44] [SUCCESS]   ✅ Success! 2145 chars
+[2025-11-22 01:56:46] [INFO] 
+[15/100] Processing ID: 13519161-RR-14
+[2025-11-22 01:56:46] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:56:57] [SUCCESS]   ✅ Success! 1598 chars
+[2025-11-22 01:56:59] [INFO] 
+[16/100] Processing ID: 11145671-RR-40
+[2025-11-22 01:56:59] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:57:10] [SUCCESS]   ✅ Success! 2883 chars
+[2025-11-22 01:57:12] [INFO] 
+[17/100] Processing ID: 13017481-RR-88
+[2025-11-22 01:57:12] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:57:24] [INFO] 
+[18/100] Processing ID: 19630748-RR-23
+[2025-11-22 01:57:24] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:57:35] [SUCCESS]   ✅ Success! 1990 chars
+[2025-11-22 01:57:37] [INFO] 
+[19/100] Processing ID: 15586363-RR-37
+[2025-11-22 01:57:37] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:57:48] [SUCCESS]   ✅ Success! 495 chars
+[2025-11-22 01:57:50] [INFO] 
+[20/100] Processing ID: 13093002-RR-49
+[2025-11-22 01:57:50] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:58:01] [SUCCESS]   ✅ Success! 1223 chars
+[2025-11-22 01:58:01] [INFO] 💾 Progress saved: 20 samples
+[2025-11-22 01:58:03] [INFO] 
+[21/100] Processing ID: 10386865-RR-20
+[2025-11-22 01:58:03] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:58:14] [SUCCESS]   ✅ Success! 1894 chars
+[2025-11-22 01:58:16] [INFO] 
+[22/100] Processing ID: 12605254-RR-32
+[2025-11-22 01:58:16] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:58:26] [SUCCESS]   ✅ Success! 1326 chars
+[2025-11-22 01:58:28] [INFO] 
+[23/100] Processing ID: 19881684-RR-12
+[2025-11-22 01:58:28] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:58:41] [INFO] 
+[24/100] Processing ID: 13487161-RR-27
+[2025-11-22 01:58:41] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:58:54] [INFO] 
+[25/100] Processing ID: 13135546-RR-47
+[2025-11-22 01:58:54] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:59:05] [SUCCESS]   ✅ Success! 2775 chars
+[2025-11-22 01:59:07] [INFO] 
+[26/100] Processing ID: 14596167-RR-28
+[2025-11-22 01:59:07] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:59:17] [SUCCESS]   ✅ Success! 2867 chars
+[2025-11-22 01:59:19] [INFO] 
+[27/100] Processing ID: 10844869-RR-54
+[2025-11-22 01:59:19] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:59:33] [INFO] 
+[28/100] Processing ID: 18301030-RR-19
+[2025-11-22 01:59:33] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:59:43] [SUCCESS]   ✅ Success! 2885 chars
+[2025-11-22 01:59:45] [INFO] 
+[29/100] Processing ID: 16268154-RR-23
+[2025-11-22 01:59:45] [DEBUG]   Attempt 1/3...
+[2025-11-22 01:59:56] [SUCCESS]   ✅ Success! 2529 chars
+[2025-11-22 01:59:59] [INFO] 
+[30/100] Processing ID: 18257881-RR-17
+[2025-11-22 01:59:59] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:00:08] [SUCCESS]   ✅ Success! 2386 chars
+[2025-11-22 02:00:08] [INFO] 💾 Progress saved: 30 samples
+[2025-11-22 02:00:10] [INFO] 
+[31/100] Processing ID: 18904260-RR-56
+[2025-11-22 02:00:10] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:00:22] [SUCCESS]   ✅ Success! 1167 chars
+[2025-11-22 02:00:24] [INFO] 
+[32/100] Processing ID: 18717557-RR-31
+[2025-11-22 02:00:24] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:00:37] [INFO] 
+[33/100] Processing ID: 16344412-RR-77
+[2025-11-22 02:00:37] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:00:49] [INFO] 
+[34/100] Processing ID: 18901279-RR-29
+[2025-11-22 02:00:49] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:01:00] [SUCCESS]   ✅ Success! 2759 chars
+[2025-11-22 02:01:02] [INFO] 
+[35/100] Processing ID: 11112231-RR-37
+[2025-11-22 02:01:02] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:01:16] [INFO] 
+[36/100] Processing ID: 15894414-RR-260
+[2025-11-22 02:01:16] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:01:27] [SUCCESS]   ✅ Success! 2617 chars
+[2025-11-22 02:01:29] [INFO] 
+[37/100] Processing ID: 15862697-RR-24
+[2025-11-22 02:01:29] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:01:41] [SUCCESS]   ✅ Success! 2840 chars
+[2025-11-22 02:01:43] [INFO] 
+[38/100] Processing ID: 14604882-RR-49
+[2025-11-22 02:01:43] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:01:54] [SUCCESS]   ✅ Success! 1080 chars
+[2025-11-22 02:01:56] [INFO] 
+[39/100] Processing ID: 19917153-RR-15
+[2025-11-22 02:01:56] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:02:06] [WARNING]   ⚠️ No medical terms detected
+[2025-11-22 02:02:08] [DEBUG]   Attempt 2/3...
+[2025-11-22 02:02:19] [SUCCESS]   ✅ Success! 3176 chars
+[2025-11-22 02:02:21] [INFO] 
+[40/100] Processing ID: 17724493-RR-13
+[2025-11-22 02:02:21] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:02:32] [INFO] 💾 Progress saved: 40 samples
+[2025-11-22 02:02:34] [INFO] 
+[41/100] Processing ID: 15093556-RR-8
+[2025-11-22 02:02:34] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:02:47] [INFO] 
+[42/100] Processing ID: 13683206-RR-23
+[2025-11-22 02:02:47] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:02:59] [SUCCESS]   ✅ Success! 2664 chars
+[2025-11-22 02:03:01] [INFO] 
+[43/100] Processing ID: 18355514-RR-41
+[2025-11-22 02:03:01] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:03:14] [INFO] 
+[44/100] Processing ID: 18507022-RR-154
+[2025-11-22 02:03:14] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:03:26] [SUCCESS]   ✅ Success! 1512 chars
+[2025-11-22 02:03:28] [INFO] 
+[45/100] Processing ID: 16991839-RR-20
+[2025-11-22 02:03:28] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:03:42] [INFO] 
+[46/100] Processing ID: 13007829-RR-38
+[2025-11-22 02:03:42] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:03:53] [SUCCESS]   ✅ Success! 2571 chars
+[2025-11-22 02:03:55] [INFO] 
+[47/100] Processing ID: 14500788-RR-108
+[2025-11-22 02:03:55] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:04:07] [SUCCESS]   ✅ Success! 681 chars
+[2025-11-22 02:04:09] [INFO] 
+[48/100] Processing ID: 18116982-RR-40
+[2025-11-22 02:04:09] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:04:21] [SUCCESS]   ✅ Success! 2589 chars
+[2025-11-22 02:04:23] [INFO] 
+[49/100] Processing ID: 16210161-RR-24
+[2025-11-22 02:04:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:04:34] [SUCCESS]   ✅ Success! 2899 chars
+[2025-11-22 02:04:36] [INFO] 
+[50/100] Processing ID: 13786189-RR-117
+[2025-11-22 02:04:36] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:04:48] [SUCCESS]   ✅ Success! 2341 chars
+[2025-11-22 02:04:48] [INFO] 💾 Progress saved: 50 samples
+[2025-11-22 02:04:50] [INFO] 
+[51/100] Processing ID: 13196707-RR-14
+[2025-11-22 02:04:50] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:05:00] [SUCCESS]   ✅ Success! 650 chars
+[2025-11-22 02:05:02] [INFO] 
+[52/100] Processing ID: 18688236-RR-48
+[2025-11-22 02:05:02] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:05:13] [SUCCESS]   ✅ Success! 2597 chars
+[2025-11-22 02:05:15] [INFO] 
+[53/100] Processing ID: 12753882-RR-28
+[2025-11-22 02:05:15] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:05:29] [INFO] 
+[54/100] Processing ID: 11627738-RR-10
+[2025-11-22 02:05:29] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:05:44] [INFO] 
+[55/100] Processing ID: 15895770-RR-96
+[2025-11-22 02:05:44] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:05:57] [INFO] 
+[56/100] Processing ID: 15664027-RR-65
+[2025-11-22 02:05:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:06:08] [SUCCESS]   ✅ Success! 2143 chars
+[2025-11-22 02:06:10] [INFO] 
+[57/100] Processing ID: 11753870-RR-49
+[2025-11-22 02:06:10] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:06:21] [SUCCESS]   ✅ Success! 263 chars
+[2025-11-22 02:06:23] [INFO] 
+[58/100] Processing ID: 12475976-RR-70
+[2025-11-22 02:06:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:06:34] [SUCCESS]   ✅ Success! 1593 chars
+[2025-11-22 02:06:36] [INFO] 
+[59/100] Processing ID: 15003038-RR-28
+[2025-11-22 02:06:36] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:06:49] [INFO] 
+[60/100] Processing ID: 18785721-RR-19
+[2025-11-22 02:06:49] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:07:00] [INFO] 💾 Progress saved: 60 samples
+[2025-11-22 02:07:02] [INFO] 
+[61/100] Processing ID: 12068504-RR-13
+[2025-11-22 02:07:02] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:07:14] [SUCCESS]   ✅ Success! 2268 chars
+[2025-11-22 02:07:16] [INFO] 
+[62/100] Processing ID: 10191984-RR-66
+[2025-11-22 02:07:16] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:07:28] [SUCCESS]   ✅ Success! 2268 chars
+[2025-11-22 02:07:30] [INFO] 
+[63/100] Processing ID: 14808556-RR-24
+[2025-11-22 02:07:30] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:07:42] [WARNING]   ⚠️ Output too short (115 chars)
+[2025-11-22 02:07:44] [DEBUG]   Attempt 2/3...
+[2025-11-22 02:07:57] [INFO] 
+[64/100] Processing ID: 15129946-RR-20
+[2025-11-22 02:07:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:08:08] [SUCCESS]   ✅ Success! 2268 chars
+[2025-11-22 02:08:10] [INFO] 
+[65/100] Processing ID: 10890793-RR-69
+[2025-11-22 02:08:10] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:08:22] [SUCCESS]   ✅ Success! 801 chars
+[2025-11-22 02:08:24] [INFO] 
+[66/100] Processing ID: 19017808-RR-118
+[2025-11-22 02:08:24] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:08:36] [SUCCESS]   ✅ Success! 2612 chars
+[2025-11-22 02:08:38] [INFO] 
+[67/100] Processing ID: 16126883-RR-5
+[2025-11-22 02:08:38] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:08:49] [SUCCESS]   ✅ Success! 3361 chars
+[2025-11-22 02:08:51] [INFO] 
+[68/100] Processing ID: 18591785-RR-7
+[2025-11-22 02:08:51] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:09:05] [INFO] 
+[69/100] Processing ID: 19663566-RR-72
+[2025-11-22 02:09:05] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:09:16] [SUCCESS]   ✅ Success! 1740 chars
+[2025-11-22 02:09:18] [INFO] 
+[70/100] Processing ID: 19683159-RR-137
+[2025-11-22 02:09:18] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:09:30] [INFO] 💾 Progress saved: 70 samples
+[2025-11-22 02:09:32] [INFO] 
+[71/100] Processing ID: 15151502-RR-31
+[2025-11-22 02:09:32] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:09:42] [SUCCESS]   ✅ Success! 2951 chars
+[2025-11-22 02:09:44] [INFO] 
+[72/100] Processing ID: 10559377-RR-46
+[2025-11-22 02:09:44] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:09:54] [SUCCESS]   ✅ Success! 3404 chars
+[2025-11-22 02:09:56] [INFO] 
+[73/100] Processing ID: 16675128-RR-67
+[2025-11-22 02:09:56] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:10:07] [SUCCESS]   ✅ Success! 1651 chars
+[2025-11-22 02:10:09] [INFO] 
+[74/100] Processing ID: 16835199-RR-35
+[2025-11-22 02:10:09] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:10:21] [SUCCESS]   ✅ Success! 2391 chars
+[2025-11-22 02:10:23] [INFO] 
+[75/100] Processing ID: 13999982-RR-144
+[2025-11-22 02:10:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:10:34] [SUCCESS]   ✅ Success! 2374 chars
+[2025-11-22 02:10:36] [INFO] 
+[76/100] Processing ID: 17339071-RR-74
+[2025-11-22 02:10:36] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:10:48] [INFO] 
+[77/100] Processing ID: 12621884-RR-34
+[2025-11-22 02:10:48] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:11:00] [SUCCESS]   ✅ Success! 1516 chars
+[2025-11-22 02:11:02] [INFO] 
+[78/100] Processing ID: 10418352-RR-12
+[2025-11-22 02:11:02] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:11:13] [SUCCESS]   ✅ Success! 2449 chars
+[2025-11-22 02:11:15] [INFO] 
+[79/100] Processing ID: 11741591-RR-11
+[2025-11-22 02:11:15] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:11:27] [SUCCESS]   ✅ Success! 2370 chars
+[2025-11-22 02:11:29] [INFO] 
+[80/100] Processing ID: 18206648-RR-38
+[2025-11-22 02:11:29] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:11:41] [INFO] 💾 Progress saved: 80 samples
+[2025-11-22 02:11:43] [INFO] 
+[81/100] Processing ID: 16031945-RR-59
+[2025-11-22 02:11:43] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:11:54] [SUCCESS]   ✅ Success! 2918 chars
+[2025-11-22 02:11:56] [INFO] 
+[82/100] Processing ID: 12734486-RR-13
+[2025-11-22 02:11:56] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:12:09] [INFO] 
+[83/100] Processing ID: 10390732-RR-90
+[2025-11-22 02:12:09] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:12:23] [SUCCESS]   ✅ Success! 2536 chars
+[2025-11-22 02:12:25] [INFO] 
+[84/100] Processing ID: 17009014-RR-53
+[2025-11-22 02:12:25] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:12:36] [WARNING]   ⚠️ Output too short (77 chars)
+[2025-11-22 02:12:38] [DEBUG]   Attempt 2/3...
+[2025-11-22 02:12:52] [INFO] 
+[85/100] Processing ID: 11291823-RR-26
+[2025-11-22 02:12:52] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:13:03] [SUCCESS]   ✅ Success! 2643 chars
+[2025-11-22 02:13:05] [INFO] 
+[86/100] Processing ID: 11274257-RR-29
+[2025-11-22 02:13:05] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:13:17] [SUCCESS]   ✅ Success! 2807 chars
+[2025-11-22 02:13:19] [INFO] 
+[87/100] Processing ID: 14382048-RR-26
+[2025-11-22 02:13:19] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:13:30] [SUCCESS]   ✅ Success! 2694 chars
+[2025-11-22 02:13:32] [INFO] 
+[88/100] Processing ID: 12934122-RR-23
+[2025-11-22 02:13:32] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:13:43] [SUCCESS]   ✅ Success! 1137 chars
+[2025-11-22 02:13:45] [INFO] 
+[89/100] Processing ID: 15925979-RR-24
+[2025-11-22 02:13:45] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:13:58] [INFO] 
+[90/100] Processing ID: 10027957-RR-25
+[2025-11-22 02:13:58] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:14:08] [INFO] 💾 Progress saved: 90 samples
+[2025-11-22 02:14:10] [INFO] 
+[91/100] Processing ID: 14701621-RR-123
+[2025-11-22 02:14:10] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:14:21] [SUCCESS]   ✅ Success! 2928 chars
+[2025-11-22 02:14:23] [INFO] 
+[92/100] Processing ID: 17396951-RR-5
+[2025-11-22 02:14:23] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:14:35] [SUCCESS]   ✅ Success! 1539 chars
+[2025-11-22 02:14:37] [INFO] 
+[93/100] Processing ID: 16925997-RR-79
+[2025-11-22 02:14:37] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:14:48] [SUCCESS]   ✅ Success! 1686 chars
+[2025-11-22 02:14:50] [INFO] 
+[94/100] Processing ID: 19659769-RR-35
+[2025-11-22 02:14:50] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:15:02] [SUCCESS]   ✅ Success! 2116 chars
+[2025-11-22 02:15:04] [INFO] 
+[95/100] Processing ID: 11884069-RR-21
+[2025-11-22 02:15:04] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:15:15] [SUCCESS]   ✅ Success! 524 chars
+[2025-11-22 02:15:17] [INFO] 
+[96/100] Processing ID: 14923562-RR-97
+[2025-11-22 02:15:17] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:15:30] [INFO] 
+[97/100] Processing ID: 11098956-RR-27
+[2025-11-22 02:15:30] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:15:42] [SUCCESS]   ✅ Success! 991 chars
+[2025-11-22 02:15:44] [INFO] 
+[98/100] Processing ID: 16909232-RR-44
+[2025-11-22 02:15:44] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:15:55] [SUCCESS]   ✅ Success! 1225 chars
+[2025-11-22 02:15:57] [INFO] 
+[99/100] Processing ID: 17936363-RR-13
+[2025-11-22 02:15:57] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:16:07] [SUCCESS]   ✅ Success! 2101 chars
+[2025-11-22 02:16:09] [INFO] 
+[100/100] Processing ID: 19368574-RR-39
+[2025-11-22 02:16:09] [DEBUG]   Attempt 1/3...
+[2025-11-22 02:16:20] [SUCCESS]   ✅ Success! 689 chars
+[2025-11-22 02:16:21] [INFO] 💾 Progress saved: 100 samples
+[2025-11-22 02:16:23] [INFO] 
+======================================================================
+[2025-11-22 02:16:23] [INFO] 📊 BATCH STATISTICS
+[2025-11-22 02:16:23] [INFO] ======================================================================
+[2025-11-22 02:16:23] [INFO] ✅ Total Success: 71/100 (71.0%)
+[2025-11-22 02:16:23] [INFO] 📏 Avg length: 2040 chars
+[2025-11-22 02:16:23] [INFO] ⏱️  Total time: 19.4 minutes
+[2025-11-22 02:16:23] [INFO] 💾 Saved to: C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\data\processed\synthetic_radiology_hindi_100.csv
+[2025-11-22 02:16:23] [INFO] 
+⚠️  Error Summary:
+[2025-11-22 02:16:23] [INFO]    • content_filtered: 29
+[2025-11-22 02:16:23] [INFO] 
+======================================================================
+[2025-11-22 02:16:23] [INFO] 🎉 GENERATION COMPLETE!
+[2025-11-22 02:16:23] [INFO] ======================================================================
+[2025-11-22 02:16:23] [INFO] 
+✅ Synthetic Hindi medical data generated successfully!
+[2025-11-22 02:16:23] [INFO] 
+📁 Output files:
+[2025-11-22 02:16:23] [INFO]    • C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\data\processed\synthetic_discharge_hindi_100.csv
+[2025-11-22 02:16:23] [INFO]    • C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\data\processed\synthetic_radiology_hindi_100.csv
+[2025-11-22 02:16:23] [INFO] 
+📋 Next steps:
+[2025-11-22 02:16:23] [INFO]    1. Review the CSV files
+[2025-11-22 02:16:23] [INFO]    2. Check quality of Hindi text
+[2025-11-22 02:16:23] [INFO]    3. Run validation analysis
+[2025-11-22 02:16:23] [INFO]    4. Use for model training!
+[2025-11-22 02:16:23] [INFO] 
+📊 Detailed logs: C:\Users\pc\Desktop\AgenticAI\Dissertation\Dissertation\outputs\logs\generation_20251122_012942.log
+[2025-11-22 02:16:23] [INFO] 
+======================================================================

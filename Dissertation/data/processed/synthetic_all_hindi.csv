@@ -1,0 +1,3084 @@
+﻿synthetic_id,reference_note_id,note_type,reference_preview,reference_hash,synthetic_hindi_text,status,devanagari_fraction,truncated,generated_length,generation_time_sec
+DS_000000,10202247-DS-15,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Anticholinergics,Other / Reglan Attending: Chief Complaint: Abdominal pain Major Surgical or Invasive Procedure: None History of Present Illness: Patien",f252ac62fa,,flagged,0.0,True,0,0.0
+DS_000001,12784119-DS-19,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Shellfish Attending: Chief Complaint: cough, DOE Major Surgical or Invasive Procedure: None History of Present Illness: y/o M with HIV (last known CD4~3",1ce8b9bf45,"**मरीज़ डिस्चार्ज सारांश**
+
+**अस्पताल का नाम:** सामुदायिक स्वास्थ्य केंद्र, दिल्ली
+**विभाग:** आंतरिक चिकित्सा
+**परामर्शदाता:** डॉ. आर. शर्मा, एम.डी.
+
+---
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 1234567890
+*   **दाखिल होने की तिथि:** 15/05/2024, 10:30 पूर्वाह्न
+*   **डिस्चार्ज की तिथि:** 18/05/2024, 02:00 अपराह्न
+*   **पता:** दिल्ली
+*   **संपर्क व्यक्ति:** परिजन
+
+---
+
+**मुख्य शिकायत (Chief Complaint):**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और उल्टी की शिकायत थी।
+
+---
+
+**वर्तमान बीमारी का इतिहास (History of Present Illness):**
+रोगी को 3 दिनों से पेट के ऊपरी मध्य भाग में लगातार, मध्यम तीव्रता का दर्द हो रहा था, जो कभी-कभी पीठ की ओर भी फैलता था। दर्द के साथ दो बार उल्टी भी हुई, जिसमें बिना पचा हुआ भोजन था। रोगी ने भूख में कमी की भी सूचना दी। बुखार, पीलिया या मल के रंग में बदलाव का कोई इतिहास नहीं था। रोगी को पिछले 6 महीनों से कभी-कभी अपच की शिकायत रहती थी, जिसके लिए उसने कोई विशिष्ट उपचार नहीं लिया था। अस्पताल में भर्ती होने से पहले उसने कोई स्व-चिकित्सा का प्रयास नहीं किया था।
+
+---
+
+**शारीरिक जांच (Physical Examination):**",success,0.6079,False,1117,9.24
+DS_000002,16314105-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: UROLOGY Allergies: Penicillins / pseudoephedrine / lisinopril Attending: Chief Complaint: left renal mass Major Surgical or Invasive Procedure: Robotic left partial nephrec,c8a42d97a6,,flagged,0.0,True,0,0.0
+DS_000003,16805731-DS-23,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Complaint: unneeded ileostomy Major Surgical or Invasive Procedure: Ileostomy takedown History of ,10848604b9,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रोगी
+*   **अस्पताल आईडी:** R-12345
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** दिल्ली
+*   **दाखिले की तारीख:** 10/05/2024
+*   **छुट्टी की तारीख:** 15/05/2024
+*   **दाखिले का कारण:** पेट में दर्द और बुखार
+
+**मुख्य शिकायत:**
+मरीज़ को पिछले 3 दिनों से पेट के निचले हिस्से में दर्द और तेज बुखार (102°F) की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+मरीज़ को 3 दिन पहले पेट के निचले हिस्से में मध्यम तीव्रता का, लगातार दर्द होना शुरू हुआ था। दर्द के साथ कंपकंपी के साथ तेज बुखार भी था। भूख में कमी और सामान्य कमजोरी भी महसूस हुई। कोई उल्टी, दस्त, पेशाब में जलन या पेशाब करने में कठिनाई का इतिहास नहीं था। मरीज़ ने स्थानीय चिकित्सक से परामर्श किया और कुछ दर्द निवारक दवाएं लीं, लेकिन लक्षणों में सुधार नहीं हुआ। आगे के मूल्यांकन और प्रबंधन के लिए अस्पताल में भर्ती कराया गया। मरीज़ का कोई ज्ञात पुराना चिकित्सा इतिहास (जैसे मधुमेह, उच्च रक्तचाप) नहीं है।
+
+**शारीरिक जांच (दाखिले के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति सचेत, सामान्यतः बीमार दिख रहा था।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 98 प्रति मिनट, नियमित
+*   **श्वसन दर:** 18 प्रति मिनट
+*   **तापमान:** 101",success,0.6551,False,1177,9.13
+DS_000004,14334225-DS-10,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: vomiting Major Surgical or Invasive Procedure: None History of Present Illness: ,b253f60b33,"**[अस्पताल का नाम, स्थान]**
+(उदाहरण: श्री गंगा राम अस्पताल, दिल्ली)
+
+---
+
+**डिस्चार्ज सारांश**
+
+**तिथि:** 18/05/2024
+**चिकित्सक का नाम:** डॉ. विवेक शर्मा (चिकित्सा अधिकारी)
+
+---
+
+**1. मरीज़ की जानकारी**
+*   **नाम:** श्रीमान रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 2024-123456
+*   **प्रवेश की तिथि:** 15/05/2024
+*   **डिस्चार्ज की तिथि:** 18/05/2024
+*   **पता:** दिल्ली
+*   **संपर्क व्यक्ति:** श्रीमती रोगी (पत्नी)
+*   **ब्लड ग्रुप:** B+",success,0.5086,False,466,9.12
+DS_000005,19250667-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: s/p fall Major Surgical or Invasive Procedure: N/A History of Present Illness: y,a9ee70b5fc,"**डिस्चार्ज सारांश**
+
+**रोगी का नाम:** रोगी
+**आयु:** 50 वर्ष
+**लिंग:** पुरुष
+**पंजीकरण संख्या:** एमएच0012345
+**दाखिले की तिथि:** 10/05/2024",success,0.5252,False,139,20.83
+DS_000006,15427009-DS-22,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: fall off dirt bike Major Surgical or Invasive Procedure: Left chest tube placemen,63d780950b,"**चिकित्सा पर्ची**
+
+**अस्पताल का नाम:** [अस्पताल का नाम - जेनेरिक]
+**विभाग:** आंतरिक चिकित्सा
+**तिथि:** 25 मई, 2024
+
+---
+
+**मरीज़ की जानकारी:**
+
+*   **नाम:** श्री/श्रीमती रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2024-001234
+*   **पता:**",success,0.4963,False,268,10.64
+DS_000007,10074117-DS-23,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: SOB, DOE, b/l edema Major Surgical or Invasive Procedure: Right-sided",25115cc25e,"**डिस्चार्ज/रेडियोलॉजी नोट**
+
+**अस्पताल का नाम:** सिटी अस्पताल
+**विभाग:** सामान्य चिकित्सा
+
+---
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 12345
+*   **दिनांक:** 25 अक्टूबर, 2023
+*   **पता:** दिल्ली
+*   **मोबाइल नंबर:** XXXXXXXXXX
+
+---
+
+**मुख्य शिकायत:**
+मरीज़ पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द, जी मिचलाना, उल्टी और हल्के बुखार की शिकायत के साथ भर्ती हुए थे।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी ने बताया कि पिछले तीन दिनों से उन्हें पेट के ऊपरी दाहिने हिस्से में लगातार, कभी-कभी तेज दर्द हो रहा है, जो पीठ की ओर फैलता है। दर्द अक्सर भोजन के बाद बढ़ जाता है। उन्हें दिन में 2-3 बार उल्टी हुई है, जिसमें खाया हुआ भोजन होता है। पिछले तीन दिनों से शाम को बुखार (मापा गया तापमान 100.2°F) भी रहता है, हालांकि ठंड लगने की शिकायत नहीं है। उन्हें भूख कम लग रही है। पहले उन्हें ऐसी कोई शिकायत नहीं हुई थी।
+
+---
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** सचेत, सहयोगपूर्ण और सतर्क।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 88 प्रति मिनट, नियमित।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 100.2°F (मौखिक)।
+*   **पेट की जांच:**
+    *   **निरीक्षण:** पेट सामान्य, कोई बाहरी सूजन या विकृति नहीं।
+    *   **स्पर्श:** पेट के ऊपरी दाहिने क्वाड्रेंट में कोमलता (tenderness) मौजूद। मर्फी का संकेत (Murphy's sign) सकारात्मक।
+    *   **परकशन:** सामान्य।
+    *   **ऑस्कल्टेशन:** आंत्र ध्वनियाँ (bowel sounds) सामान्य।
+*   **अन्य प्रणालियों की जांच:** हृदय,",success,0.6088,False,1434,21.83
+DS_000008,16149168-DS-9,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Penicillins / Tequin / amoxicillin / NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / aspirin Attending: Major Surgical or Invasive Procedure: None attac,754703332b,"**डिस्चार्ज/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2023-001234
+*   **दिनांक:** 27 मई, 2024
+*   **पता:** दिल्ली
+*   **चिकित्सक:** डॉ. आर. शर्मा (आंतरिक चिकित्सा)
+
+**मुख्य शिकायत:**
+मरीज़ को पिछले 2 दिनों से पेट के ऊपरी हिस्से में दर्द और मतली की शिकायत है।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी ने बताया कि उसे पिछले 2 दिनों से अचानक पेट के ऊपरी हिस्से (अधिजठर क्षेत्र) में लगातार, हल्का से मध्यम तीव्रता का दर्द हो रहा है। दर्द कभी-कभी तेज हो जाता है और खाना खाने के बाद बढ़ जाता है। एंटासिड लेने से थोड़ा आराम मिलता है। दर्द पीठ की ओर या कंधे की ओर नहीं फैलता है। दर्द के साथ मतली बनी रहती है और एक बार उल्टी का भी अनुभव हुआ है। उसे भूख कम लग रही है। बुखार, पीलिया, या शौच की आदतों में कोई बदलाव नहीं हुआ है। रोगी को उच्च रक्तचाप या मधुमेह जैसी कोई ज्ञात सह-रुग्णता नहीं है, और पहले कभी ऐसी समस्या नहीं हुई है।
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** रोगी सचेत, समय-स्थान-व्यक्ति उन्मुख है और पेट दर्द के कारण असहज प्रतीत होता है।
+*   **वाइटल्स:**
+    *   रक्तचाप:",success,0.6762,False,1053,35.48
+DS_000009,18253112-DS-28,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Augmentin / Bactrim / Biaxin / Iodine / Nsaids / Penicillins / IV Dye, Iodine Containing / Symbicort Attending: Chief Complaint: Weakness, hypotension M",8d602082c0,"**जनसेवा मल्टीस्पेशलिटी अस्पताल**
+**दिल्ली**
+**दूरभाष: 011-23456789**
+
+---
+
+**डिस्चार्ज सारांश**
+
+**रोगी आईडी:** O-12345
+**दाखिले की तिथि:** 15/05/2024
+**छुट्टी की तिथि:** 20/05/2024
+**विभाग:** आंतरिक चिकित्सा
+**परामर्शदाता चिकित्सक:** डॉ. संजय वर्मा",success,0.54,False,250,23.06
+DS_000000,15592548-DS-22,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Bacitracin / Quinidine / Allopurinol And Derivatives Attending: Chief Complaint: cellulitis Major Surgical or Invasive Procedure: None History of Presen,30481f2647,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 383,
+        ""total_token_count"": 1882
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.11
+DS_000001,19802210-DS-11,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Sulfa (Sulfonamide Antibiotics) / NSAIDS / strawberries Attending: Chief Complaint: post-ERCP; leukocytosis Major Surgical or Invasive Procedure: ERCP w,6dcdbfe762,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 401,
+        ""total_token_count"": 1900
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.62
+DS_000002,11160857-DS-3,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: seasonal Attending: Chief Complaint: Infiltrating ductal carcinoma, right breast Major Surgical or Invasive Procedure: Right total mastectomy Past Medica",be16ec431b,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 422,
+        ""total_token_count"": 1921
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,13.2
+DS_000003,15695321-DS-13,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Allergies/ADRs on File Attending: Chief Complaint: s/p cardiac arrest Major Surgical or Invasive Procedure: chest tube placement right femoral centra,a4473def18,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 384,
+        ""total_token_count"": 1883
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.84
+DS_000004,17551960-DS-8,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: NEUROSURGERY Allergies: No Drug Allergy Information on File Attending: Chief Complaint: s/p Bicycle crash Major Surgical or Invasive Procedure: Irrigation and suture repair,46d8e84a65,"**मरीज़ छुट्टी सारांश**
+
+---
+
+**अस्पताल का नाम:** [अस्पताल का नाम, उदाहरण: जन सेवा अस्पताल, दिल्ली]
+**विभाग:** आंतरिक चिकित्सा
+
+---
+
+**मरीज़ की जानकारी:**
+
+*   **नाम:** श्री अजय कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** REG2023-01234
+*   **प्रवेश की तिथि:** 01/10/2023
+*   **छु",success,0.5131,False,306,11.37
+DS_000005,19189853-DS-17,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: PSYCHIATRY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: ""I've been dealing with a lot of depression"" Major Surgical or Invasive Proced",36e3bfd964,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 411,
+        ""total_token_count"": 1910
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.65
+DS_000006,12423317-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: PLASTIC Allergies: Motrin / Toradol / Zyvox / vancomycin / Sulfa (Sulfonamide Antibiotics) / Penicillins / Bactrim Attending: Chief Complaint: Right wrist osteomyelitis Maj,753e27d69a,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 404,
+        ""total_token_count"": 1903
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,11.92
+DS_000007,17201369-DS-15,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Confusion and falls Major Surgical or Invasive Procedure: None History of Presen,97700edffd,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** MED/2023/12345
+*   **दाखिल होने की तिथि:** 15/09/2023
+*   **छुट्टी की तिथि:** 20/09/2023
+*   **विभाग:** सामान्य चिकित्सा
+*   **देखभाल करने वाले चिकित्सक:** डॉ. आर. के. शर्मा
+*   **पता:** दिल्ली
+*   **एलर्जी:** कोई ज्ञात एलर्जी नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और बार-बार उल्टी की शिकायत के साथ आपातकालीन विभाग में लाया गया था।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी ने बताया कि उन्हें पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में अचानक तीव्र दर्द शुरू हुआ, जो पीठ की ओर भी फैल रहा था। दर्द लगातार था और इसकी तीव्रता मध्यम से गंभीर थी। दर्द के साथ, उन्हें पिछले 2 दिनों से 4-5 बार उल्टी हुई, जिसमें खाया हुआ भोजन और पित्त शामिल था। उल्टी के बाद दर्द में कोई कमी नहीं आई। उन्हें बुखार या ठंड लगने का कोई इतिहास नहीं था। मल त्याग सामान्य था और पेशाब में कोई बदलाव नहीं था। रोगी को पहले से कोई ज्ञात पुरानी बीमारी (जैसे मधुमेह, उच्च रक्तचाप) नहीं थी और वे कोई नियमित दवा नहीं ले रहे थे। उन्होंने किसी भी तरह",success,0.6755,False,1097,12.13
+DS_000008,19408205-DS-16,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Weakness, Diarrhea Major Surgical or Invasive Procedure: None History of Present",880d00ecdd,"**चिकित्सा छुट्टी सारांश / रेडियोलॉजी नोट**
+
+---
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 12345678
+*   **प्रवेश तिथि:** 10 मई, 2024
+*   **छुट्टी की तिथि:** 15 मई, 2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+---
+
+**मुख्य शिकायत:**
+*   पिछले 3 दिनों से पेट के ऊपरी हिस्से में तेज दर्द और उल्टी।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से अचानक पेट के ऊपरी हिस्से में तेज, लगातार दर्द शुरू हुआ, जो पीठ की ओर फैलता है। दर्द की तीव्रता 10 में से 8 है। दर्द के साथ कई बार उल्टी हुई, जिसमें भोजन और पित्त शामिल था, लेकिन रक्त या कॉफी-ग्राउंड सामग्री नहीं थी। रोगी को बुखार या दस्त की कोई शिकायत नहीं है। रोगी का भूख कम हो गई है और उसे सामान्य कमजोरी महसूस हो रही है। रोगी को पहले से मधुमेह (Diabetes Mellitus) और उच्च रक्तचाप (Hypertension) की समस्या है, जिसके लिए वह पिछले 5 वर्षों से नियमित दवाएं ले रहे हैं (मेटफॉर्मिन 500 मिलीग्राम BID और एम्लोडिपिन 5 मिलीग्राम OD)। किसी प्रकार की पिछली सर्जरी या पेट की चोट का इतिहास नहीं है। रोगी ने दर्द से राहत के लिए ओवर-द-काउंटर दर्द निवारक दवाएं लीं, लेकिन उनसे कोई खास आराम नहीं मिला। अस्पताल में भर्ती होने से पहले, रोगी ने वसायुक्त भोजन का सेवन किया था।
+
+---
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** बेचैन, दर्द में।
+*   **रक्तचाप (BP):** 140/90 mmHg
+*   **नाड़ी (Pulse):**",success,0.6333,False,1309,51.17
+DS_000009,12097404-DS-19,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Vaginal prolapse and urinary incontinence Major Surgical,c3a01e0c8e,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 2023-100456
+*   **दाखिला तिथि:** 15/11/2023
+*   **छुट्टी की तिथि:** 17/11/2023
+*   **पता:** दिल्ली
+*   **चिकित्सक:** डॉ. रवि कुमार
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से में तीव्र दर्द और कई बार उल्टी की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को 3 दिन पहले पेट के ऊपरी हिस्से (एपिगैस्ट्रिक क्षेत्र) में अचानक तेज दर्द शुरू हुआ था, जो लगातार बना हुआ था। दर्द भोजन करने के बाद बढ़ जाता था और पीठ की ओर नहीं फैलता था। दर्द के साथ रोगी को 2-3 बार उल्टी भी हुई, जिसमें आंशिक रूप से पचा हुआ भोजन था। बुखार, पीलिया, या मल में खून आने का कोई इतिहास नहीं था। रोगी ने स्वयं कुछ एंटासिड दवाएं ली थीं, जिनसे थोड़ा आराम मिला था, लेकिन दर्द पूरी तरह से ठीक नहीं हुआ था। इसके बाद, लक्षणों की गंभीरता के कारण उन्हें अस्पताल में भर्ती कराया गया।
+
+**शारीरिक जांच (प्रवेश पर):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति उन्मुख, मध्यम निर्मित शरीर।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 84 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 16 प्रति मिनट।
+*   **तापमान:** 98.4°F (एफेब्राइल)।
+*   **पेट की जांच:** ऊपरी पेट में हल्की कोमलता (tenderness), कोई गार्डिंग या रीबाउंड टेंडर्नेस नहीं। आंत्र ध्वनियाँ सामान्य थीं। लिवर और स्प्लीन बढ़े हुए नहीं थे।
+*   **त्वचा/श्लेष्म झिल्ली:** कोई",success,0.6497,False,1356,10.82
+DS_000000,14260002-DS-10,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: PSYCHIATRY Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: ""I'm feeling suicidal"" Major Surgical or Invasive Procedure: None H",36ec584715,"**चिकित्सा छुट्टी नोट**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्रीमती कमला देवी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** 2023-GH-012345
+*   **दाखिल होने की तिथि:** 05/11/2023
+*   **छुट्टी की तिथि:** 08/11/2023
+*   **पता:** गांधी नगर, दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तेज़ दर्द की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+श्रीमती कमला देवी को 05/11/2023 को पेट के ऊपरी दाहिने हिस्से में अचानक, गंभीर दर्द के साथ आपातकालीन विभाग में भर्ती कराया गया था। दर्द लगातार बना हुआ था और पीठ की ओर फैलता था। रोगी ने बताया कि दर्द खाने के बाद बढ़ जाता था, खासकर वसायुक्त भोजन के सेवन के बाद। दर्द के साथ मतली और उल्टी के दो एपिसोड भी हुए। उन्हें बुखार या पीलिया की शिकायत नहीं थी। पूर्व में उन्हें ऐसी कोई शिकायत नहीं थी और उनका कोई महत्वपूर्ण चिकित्सा इतिहास नहीं था। अस्पताल में भर्ती होने पर, उन्हें दर्द निवारक और सहायक चिकित्सा दी गई, जिससे लक्षणों में सुधार हुआ।
+
+**शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति सचेत, मध्यम रूप से परेशान।
+*   **वाइटल्स:**
+    *   बीपी: 135/85 mmHg
+    *   पल्स: 92/मिनट, नियमित
+    *   श्वसन दर: 20/मिनट
+    *",success,0.6475,False,1180,11.98
+DS_000001,19131048-DS-23,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Penicillins Attending: Chief Complaint: Vomiting Major Surgical or Invasive Procedure: : 1 Distal gastrectomy 2 Resection of peripancreatic lymph node 3 ,62508660e6,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 398,
+        ""total_token_count"": 1897
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,10.62
+DS_000002,12260640-DS-22,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: seasonal Attending: Chief Complaint: Bright red blood per rectum Major Surgical or Invasive Procedure: None History of Present Illness: This is a female,16ab5c801b,"**मरीज़ छुट्टी सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2024-05-321
+*   **पता:** दिल्ली
+*   **दाखिल होने की तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 18/05/2024
+*   **विभाग:** आंतरिक चिकित्सा
+*   **परामर्शदाता चिकित्सक:** डॉ. अनिता शर्मा
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 50 वर्षीय पुरुष, को पिछले 3 दिनों से पेट के ऊपरी हिस्से में लगातार दर्द हो रहा था, जो धीरे-धीरे बढ़ता गया। दर्द की प्रकृति जलन जैसी थी और भोजन करने के लगभग 30 मिनट बाद बढ़ जाती थी। उन्हें पिछले 2 दिनों से दिन में 2-3",success,0.6056,False,644,9.49
+DS_000003,10193295-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Epigastric Pain Major Surgical or Invasive Procedure: None History of Present Il,5b20531f79,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 375,
+        ""total_token_count"": 1874
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.98
+DS_000004,18475503-DS-21,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Estrogens,Conjugated / Claritin / Nsaids / Latex / Codeine / Dilaudid / Dilaudid / Dilaudid Attending: Chief Complaint: Abdominal pain Major Surgical or ",32fa155ac1,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 406,
+        ""total_token_count"": 1905
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.69
+DS_000005,15348168-DS-14,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Confusion Major Surgical or Invasive Procedure: - Cardiac catheterization Histor,16e653b9ba,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 391,
+        ""total_token_count"": 1890
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.4
+DS_000006,17200404-DS-48,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: codeine / Percocet / venom-honey bee Attending: Chief Complaint: admitted for C25 D8-12 of MUCI/Dacogen Major Surgical or Invasive Procedure: None Histo,461bf13ebc,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 443,
+        ""total_token_count"": 1942
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.37
+DS_000007,15455517-DS-19,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: Penicillins / Watermelon / Almond Oil Attending: Chief Complaint: abdominal pain x 1 day Major Surgical or Invasive Procedure: Laparoscopic Appendectomy ,aef56ccd03,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   रोगी का नाम: श्रीमान रोगी
+*   उम्र: 55 वर्ष
+*   लिंग: पुरुष
+*   पंजीकरण संख्या: OPD-2023-012345
+*   पते का शहर: दिल्ली
+*   भर्ती की तिथि: 15/10/2023
+*   छुट्टी की तिथि: 20/10/2023
+*   विभाग: आंतरिक चिकित्सा
+*   सलाहकार चिकित्सक: डॉ. अनीता शर्मा
+*   एलर्जी: पेनिसिलिन
+
+**मुख्य शिकायत:**
+पेट के ऊपरी हिस्से में दर्द और उल्टी, 3 दिनों से।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, एक 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी हिस्से में लगातार दर्द की शिकायत के साथ अस्पताल में भर्ती हुआ था। दर्द धीरे-धीरे शुरू हुआ, प्रकृति में जलनशील था, और भोजन के बाद बढ़ जाता था।",success,0.6479,False,622,9.59
+DS_000008,10029806-DS-7,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Chest pain Major Surgical or Invasive Procedure: None History of Pres,3632190a29,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रमेश कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमडी-2024-001234
+*   **भर्ती की तिथि:** 15/03/2024, 10:30 पूर्वाह्न
+*   **छुट्टी की तिथि:** 18/03/2024, 02:00 अपराह्न
+*   **पता:** दिल्ली, भारत
+*   **एलर्जी:** ज्ञात नहीं
+
+---
+
+**मुख्य शिकायत:**
+रोगी को पिछले 2 दिनों से अचानक पेट के ऊपरी हिस्से में तेज दर्द और बार-बार उल्टी की शिकायत थी।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+55 वर्षीय पुरुष रोगी को 15/03/2024 को अस्पताल में भर्ती कराया गया था, जिसमें पिछले 2 दिनों से पेट के ऊपरी हिस्से (अधिजठर क्षेत्र) में गंभीर, लगातार दर्द की शिकायत थी। दर्द पीठ की ओर फैल रहा था। इसके साथ ही कई बार बिना पित्त वाली उल्टी भी हो रही थी। रोगी को बुखार, दस्त या पीलिया की कोई शिकायत नहीं थी। रोगी ने कभी-कभार शराब के सेवन का इतिहास बताया। पहले से कोई ज्ञात महत्वपूर्ण चिकित्सीय इतिहास नहीं था। स्थानीय चिकित्सक से परामर्श लिया गया था और कुछ दवाएं दी गई थीं, लेकिन लक्षणों में सुधार नहीं हुआ, जिसके बाद उन्हें आगे के मूल्यांकन और प्रबंधन के लिए अस्पताल लाया गया।
+
+---
+
+**शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा है, दर्द में।
+*   **वाइटल संकेत:**
+    *   **नाड़ी:** 100/मिनट, नियमित, अच्छी मात्रा।
+    *   **रक्तचाप:** 130/80 mmHg, दाहिनी बांह में, बैठा हुआ।",success,0.6435,False,1282,9.19
+DS_000009,12916026-DS-13,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Ciprofloxacin / Dilaudid / Remicade Attending: Chief Complaint: Abdominal pain Major Surgical or Invasive Procedure: None History of Present Illness: ME,1110f28d9a,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 402,
+        ""total_token_count"": 1901
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.43
+DS_000010,19013872-DS-12,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: altered mental status Major Surgical or Invasive Procedure: intubation,42470b3a70,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 486,
+        ""total_token_count"": 1985
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.33
+DS_000011,18258248-DS-8,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Codeine / Reglan / Dilaudid / Prochlorperazine / Gluten Attending: Chief Complaint: Abdominal pain ? adrenal insufficiency Major Surgical or Invasive Pr,f9555643b5,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री. रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमडी/2023/1045
+*   **भर्ती का दिनांक:** 10 दिसंबर 2023
+*   **डिस्चार्ज का दिनांक:** 15 दिसंबर 2023
+*   **पता:** दिल्ली
+*   **उपचार करने वाले चिकित्सक:** डॉ. अनमोल शर्मा (मेडिसिन विभाग)
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से सांस लेने में तकलीफ, सूखी खांसी और हल्के बुखार की शिकायत के साथ अस्पताल में भर्ती किया गया था।
+
+**वर्तमान बीमारी का इतिहास:**
+श्री. रोगी, 55 वर्षीय पुरुष, 10 दिसंबर 2023 को श्वसन संकट के साथ आपातकालीन विभाग में भर्ती हुए। उन्हें पिछले 3 दिनों से सांस लेने में तकलीफ, सूखी खांसी और रुक-र",success,0.6347,False,657,9.38
+DS_000012,19813403-DS-11,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Abdominal Pain Major Surgical or Invasive Procedure: Laparoscopic appendectomy Hi,1ac0190bb2,"**निर्वहन/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** R-2024-03-15-1234
+*   **दाखिल होने की तिथि:** 15/03/2024
+*   **डिस्चार्ज की तिथि:** 20/03/2024
+*   **स्थान:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द और पिछले 2 दिनों से पीलिया।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से (right upper quadrant) में लगातार, मध्यम से गंभीर दर्द हो रहा था। दर्द अचानक शुरू हुआ और पीठ की ओर भी फैलता हुआ महसूस हुआ। इसके साथ ही, रोगी ने पिछले 2 दिनों से आँखों और त्वचा में पीलापन (पीलिया) और गहरे रंग का मूत्र भी देखा। उसे भूख में कमी महसूस हुई, लेकिन बुखार, ठंड लगना, मतली, उल्टी या दस्त की कोई शिकायत नहीं थी। रोगी ने इस दौरान कोई दवा नहीं ली थी और उसे कोई ज्ञात पूर्व चिकित्सीय इतिहास नहीं था।
+
+**शारीरिक जांच (दाखिल होने के समय):**
+*   **सामान्य स्थिति:** सचेत, शांत और सहयोग कर रहा था।
+*   **वाइटल्स:**
+    *   रक्तचाप: 130/80 mmHg
+    *   नाड़ी: 88 प्रति मिनट, नियमित
+    *   श्वसन दर: 18 प्रति मिनट
+    *   तापमान: 98.6°F (मौखिक)
+    *   ऑक्सीजन संतृप्ति: 99% (कमरे",success,0.6072,False,1138,13.69
+DS_000013,18642746-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: UROLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: right testicular pain Major Surgical or Invasive Procedure: Right scrotal explora,4f543ed4e1,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री/श्रीमती रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 123456789
+*   **प्रवेश की तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 15/05/2024
+*   **विभाग:** आंतरिक चिकित्सा
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी पेट के ऊपरी दाहिने हिस्से में तेज दर्द और मतली की शिकायत के साथ भर्ती हुआ।
+
+**वर्तमान बीमारी का इतिहास:**
+50 वर्षीय पुरुष रोगी पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में लगातार दर्द की शिकायत के साथ आया। दर्द धीरे-धीरे बढ़ा और पीठ की ओर फैलता था। दर्द के साथ मतली और कभी-कभी उल्टी भी होती थी, खासकर वसायुक्त भोजन खाने के बाद। रोगी को बुखार या पीलिया नहीं था। पहले ऐसी कोई शिकायत नहीं हुई थी। रोगी ने स्थानीय चिकित्सक से परामर्श किया था, जिसने आगे की जांच के लिए इस अस्पताल में भेजा।
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोगपूर्ण, सामान्य पोषण।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 80 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 98.6°F
+*   **पेट की जांच:** ऊपरी दाहिने क्वाड्रंट में कोमलता। मर्फ़ी का चिह्न सकारात्मक पाया गया। कोई अंग वृद्धि या द्रव्यमान महसूस नहीं हुआ।
+*   **त्वचा/श्लेष्म झिल्ली:** पीलिया अनुपस्थित।
+*   **हृदय और श्वसन प्रणाली:** सामान्य।
+
+**निदान:**
+तीव्र पित्ताशय-शोथ (Acute Cholecystitis)
+
+**उपचार योजना और अनुवर्ती:**
+रोगी को अस्पताल में भर्ती कर निम्नलिखित उपचार दिए गए:
+1.  **IV तरल पदार्थ:** पर्याप्त जलयोजन बनाए रखने के लिए।
+2.  **दर्द निवारक:** दर्द प्रबंधन के लिए।
+3.  **एंटीबायोटिक्स:** संक्रमण को नियंत्रित करने के लिए।
+4.  **आहार संशोधन:** कम वसा वाला आहार दिया गया।
+
+आगे की जांच के लिए पेट का अल्ट्रासाउंड कराया गया, जिसमें पित्ताशय की दीवार मोटी पाई गई और पित्ताशय में पथरी की उपस्थिति का संकेत मिला। गैस्ट्रोएंटरोलॉजी विभाग से सर्जिकल राय ली गई। रोगी की स्थिति स्थिर होने पर छुट्टी दी गई।
+
+**छुट्टी के समय सलाह:**
+*   निर्धारित दवाएं समय पर लें।
+*   कम वसा वाला और",success,0.6686,False,1901,9.5
+DS_000014,11438336-DS-22,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROLOGY Allergies: Codeine / Demerol / Plavix / Percocet / Omeprazole / Metoprolol / Morphine Attending: Chief Complaint: Gait instability Major Surgical or Invasive Proc,e975ddbbec,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2024-56789
+*   **दाखिला तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **विभाग:** आंतरिक चिकित्सा
+*   **परामर्शदाता चिकित्सक:** डॉ. अंजलि शर्मा
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी पिछले 3 दिनों से पेट के ऊपरी हिस्से में तीव्र दर्द और बार-बार उल्टी की शिकायत के साथ अस्पताल में भर्ती हुआ।
+
+**वर्तमान बीमारी का इतिहास:**
+50 वर्षीय पुरुष रोगी को पिछले तीन दिनों से लगातार पेट के ऊपरी हिस्से में दर्द का अनुभव हो रहा था, जो धीरे-धीरे बढ़ रहा था। यह दर्द खाने के बाद और अधिक तीव्र हो जाता था। उसे इसी अवधि में बार-बार उल्टी भी हो रही थी, जिसमें खाया हुआ भोजन और कभी-कभी पित्त जैसा पदार्थ शामिल था। पिछले 24",success,0.6388,False,789,9.28
+DS_000015,19437158-DS-2,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: PSYCHIATRY Allergies: Haldol / Zyprexa Attending: Chief Complaint: ""I am having PTSD"" Major Surgical or Invasive Procedure: None History of Present Illness: Mr is a year ol",4b0111a5b7,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*",success,0.5469,False,128,9.7
+DS_000016,13480284-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Right shoulder swelling Major Surgical or Invasive Procedure: Arthrotomy of righ,51140a61d8,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 374,
+        ""total_token_count"": 1873
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,19.62
+DS_000017,12495686-DS-2,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: elevated BPs in office Major Surgical or Invasive Procedure: Cesare,87a1734f7d,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 544,
+        ""total_token_count"": 2043
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,16.72
+DS_000018,18551287-DS-18,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Myalgia Major Surgical or Invasive Procedure: None History of Present Illness: M,180f30119e,"**मरीज़ की छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्रीमती आशा देवी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** महिला
+*   **अस्पताल पंजीकरण संख्या:** 2024-05-12345
+*   **भर्ती की तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 12/05/2024
+*   **पता:** दिल्ली
+*   **परामर्शदाता चिकित्सक:** डॉ. राजीव शर्मा
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और मतली।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी श्रीमती आशा देवी, 55 वर्षीय महिला, पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द की शिकायत के साथ अस्पताल में भर्ती हुईं। दर्द लगातार बना रहता था और पीठ की ओर फैल रहा था। दर्द के साथ-साथ, उन्हें मतली और उल्टी के दो एपिसोड भी हुए, जिसमें खाया हुआ भोजन निकला। बुखार या ठंड लगने की कोई शिकायत नहीं थी। मल या मूत्र त्यागने में कोई कठिनाई नहीं थी। रोगी उच्च रक्तचाप के लिए पिछले 5 वर्षों से एमलोडिपिन 5 मिलीग्राम प्रतिदिन ले रही हैं। मधुमेह या अन्य कोई गंभीर बीमारी ज्ञात नहीं है। कोई सर्जरी का इतिहास नहीं है। रोगी धूम्रपान या शराब का सेवन नहीं करती हैं।
+
+**शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति सचेत।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 88 प्रति मिनट, नियमित।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 98.6°F (सामान्य)
+*   **पेट की जांच:** पेट नरम, लेकिन ऊपरी दाहिने चतुर्थांश में कोमलता (tenderness) मौजूद। मर्फी का चिन्ह सकारात्मक। पेट में कोई गांठ या सूजन नहीं।
+*   **अन्य प्रणालियों की जांच:** सामान्य।
+
+**प्रयोगशाला और इमेजिंग परिणाम:**
+*   **रक्त परीक्षण:** श्वेत रक्त कोशिकाएं (WBC) थोड़ी बढ़ी हुई (12,000/μL)। लीवर फंक्शन",success,0.6553,False,1561,29.88
+DS_000019,15275357-DS-17,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: ORTHOPAEDICS Allergies: Iodinated Contrast Media - IV Dye / Delsym Attending: Chief Complaint: Neck pain, R arm weakness Major Surgical or Invasive Procedure: Revision post",452485a49b,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   नाम: रोगी
+*   उम्र: 55 वर्ष
+*   लिंग: पुरुष
+*   पंजीकरण संख्या: 2023-012345
+*   प्रवेश की तिथि: 15/10/2023
+*   छुट्टी की तिथि: 20/10/2023
+*   पता: दिल्ली
+*   सेवा: आंतरिक चिकित्सा
+*   एलर्जी: ज्ञात नहीं
+*   उपचार करने वाले चिकित्सक: डॉ. शर्मा
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट में दर्द और बुखार।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द की शिकायत के साथ अस्पताल में भर्ती हुए। दर्द लगातार बना रहता है और पीठ की ओर फैलता है। दर्द के साथ तेज बुखार (102°F) और मतली भी थी। उल्टी नहीं हुई। भूख कम हो गई है। पेशाब सामान्य है। मल त्याग में कोई बदलाव नहीं। रोगी को उच्च रक्तचाप और मधुमेह का पुराना इतिहास है, जिसके लिए वह नियमित दवाएं लेते हैं। भर्ती के समय, रोगी दर्द में था और सामान्य कमजोरी महसूस कर रहा था।
+
+**शारीरिक जांच (भर्ती के समय):**
+*   सामान्य स्थिति: सचेत, उन्मुख, दर्द में।
+*   रक्तचाप: 140/90 mmHg
+*   नाड़ी: 98 प्रति मिनट, नियमित।
+*   श्वसन दर: 18 प्रति मिनट।
+*   तापमान:",success,0.6624,False,1016,8.72
+DS_000020,14867461-DS-8,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROSURGERY Allergies: Lisinopril / Losartan / Gadolinium-Containing Agents Attending: Chief Complaint: radiculopathic back pain Major Surgical or Invasive Procedure: L3-L,22e04bec66,"**डिस्चार्ज सारांश**
+
+**अस्पताल का नाम:** [अस्पताल का नाम - काल्पनिक]
+**विभाग:** आंतरिक चिकित्सा
+
+---
+
+**1. मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** ADM-2024-00123
+*   **प्रवेश की तिथि:** 15 मई 2024
+*   **छुट्टी की तिथि:** 20 मई 2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** कोई ज्ञात नहीं
+
+---
+
+**2. मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और दो बार उल्टी।
+
+---
+
+**3. वर्तमान बीमारी का इतिहास:**
+रोगी को 15/05/2024 को आपातकालीन विभाग में पेट के ऊपरी दाहिने हिस्से में पिछले 3 दिनों से हो रहे तीव्र, रुक-रुक कर होने वाले दर्द की शिकायत के साथ लाया गया था। दर्द भोजन के बाद बढ़ जाता था और पीठ की ओर फैलता था। दर्द के साथ दो बार उल्टी हुई, जिसमें खाया हुआ भोजन और पित्त शामिल था। बुखार या पीलिया का कोई इतिहास नहीं था। रोगी ने घर पर दर्द निवारक दवाएं लीं, लेकिन उनसे कोई खास राहत नहीं मिली। अस्पताल में भर्ती होने पर, रोगी को अंतःशिरा तरल पदार्थ (IV fluids) और दर्द निवारक दवाएं दी गईं, जिससे आंशिक आराम मिला। पेट का अल्ट्रासाउंड कराया गया, जिसमें पित्ताशय में मल्टीपल पथरी (multiple gallstones) होने की पुष्टि हुई और पित्ताशय की दीवार मोटी पाई गई। प्रयोगशाला परीक्षणों में श्वेत रक्त कोशिका की संख्या (WBC count) बढ़ी हुई पाई गई। रोगी को तीव्र पित्ताशय शोथ (Acute Cholecystitis) का निदान किया गया और उसे आंतरिक चिकित्सा वार्ड में भर्ती किया गया।
+
+---
+
+**4. शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा, मध्यम रूप से परेशान
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 88 प्रति",success,0.6361,False,1495,9.25
+DS_000021,13598803-DS-17,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: PLASTIC Allergies: Latex / Nickel Attending: Chief Complaint: Facial and neck skin laxity Major Surgical or Invasive Procedure: rhytidectomy with neck lift History of Prese,6b72b7dfc4,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** RGN-2024-12345
+*   **दाखिले की तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+*   **सेवा:** आंतरिक चिकित्सा
+*   **उपचार करने वाले चिकित्सक:** डॉ. शर्मा
+
+**मुख्य शिकायत:**
+पेट के ऊपरी हिस्से में तीव्र दर्द और उल्टी, पिछले 3 दिनों से।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, एक 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी हिस्से में अचानक शुरू हुए तीव्र दर्द की शिकायत के साथ अस्पताल में भर्ती हुआ। दर्द लगातार बना रहता है, पीठ की ओर फैलता है, और इसकी तीव्रता 10 में से 8 बताई गई है। दर्द के",success,0.6065,False,681,9.61
+DS_000022,13345447-DS-27,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Iodinated Contrast Media - IV Dye / Motrin / sulfa / Penicillins / aspirin / ibuprofen / ergocalciferol (vitamin D2) / nitroglycerin / Lasix / cefotaxim,4859b220a5,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 425,
+        ""total_token_count"": 1924
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.93
+DS_000023,18711109-DS-11,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: Sulfa (Sulfonamide Antibiotics) Attending: Chief Complaint: shortness of breath Major Surgical or Invasive Procedure: none History of Prese,9951b7a14e,"**डिस्चार्ज/रेडियोलॉजी नोट**
+
+---
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी X
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 123456789
+*   **पता:** दिल्ली
+*   **अस्पताल:** सिटी मल्टीस्पेशलिटी अस्पताल
+*   **दिनांक:** 15 अक्टूबर, 2023
+*   **विभाग:** आंतरिक चिकित्सा
+
+---
+
+**मुख्य शिकायत:**
+रोगी पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और बार-बार उल्टी की शिकायत के साथ उपस्थित हुआ।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में अचानक शुरू हुए, लगातार बने रहने वाले दर्द से पीड़ित है, जो पीठ की ओर भी फैलता है। दर्द के साथ उसे पिछले 3 दिनों से बार-बार उल्टी हो रही है, जिसमें खाया हुआ भोजन और पित्त शामिल है। रोगी को पिछले 2 दिनों से हल्का बुखार (101°F) और पीलिया भी हुआ है। उसने भूख में कमी, मल का रंग हल्का होना और मूत्र का रंग गहरा होने की भी सूचना दी है। रोगी का कोई ज्ञात एलर्जी इतिहास नहीं है और न ही कोई पुरानी गंभीर बीमारी है।
+
+---
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा है, पीलिया स्पष्ट।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 92 प्रति मिनट, नियमित
+*   **श्वसन दर:** 18 प्रति मिनट
+*   **तापमान:** 100.8°F (मौखिक)
+*   **पेट:** ऊपरी दाहिने क्वाड्रेंट में कोमलता और गार्डिंग मौजूद। मर्फी का संकेत सकारात्मक।
+*   **अन्य प्रणालियों की जांच:** हृदय, श्वसन और तंत्रिका तंत्र की जांच सामान्य सीमा के भीतर।
+
+---
+
+**निदान:**
+*   तीव्र पित्ताशय शोथ (Acute Cholecystitis)
+*   संभावित पित्त पथरी के कारण (Likely due to Cholelithiasis)
+
+---
+
+**उपचार योजना:**
+1.  **अस्पताल में भर्ती:** रोगी को आगे की निगरानी और उपचार के लिए आंतरिक चिकित्सा विभाग में भर्ती किया गया है।
+2.  **अंतःशिरा तरल पदार्थ:** निर्जलीकरण को रोकने और इलेक्ट्रोलाइट संतुलन बनाए रखने के लिए अंतःशिरा तरल पदार्थ शुरू किए गए हैं।
+3.  **दर्द निवारक दवाएं:** दर्द प्रबंधन के लिए अंतःशिरा डाइक्लोफेनाक या समतुल्य दवा दी जा रही है।
+4.  **एंटीबायोटिक्स:** संक्रमण को नियंत्रित करने के लिए अंतःशिरा सेफ्ट्रिएक्सोन और मेट्रोनिडाजोल शुरू किए गए हैं।
+5.",success,0.6532,False,1909,11.08
+DS_000024,17446715-DS-2,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Drug Allergy Information on File Attending: Chief Complaint: Abdominal Pain Major Surgical or Invasive Procedure: EGD History of Present Illness: y/o,62e6bb345d,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 45 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** 123456
+*   **पता:** दिल्ली
+*   **विभाग:** आंतरिक चिकित्सा
+*   **भर्ती दिनांक:** 12/05/2024
+*   **छुट्टी दिनांक:** 15/05/2024
+*   **सलाहकार चिकित्सक:** डॉ. राजेश कुमार
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के निचले हिस्से में दर्द और पेशाब करते समय जलन।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, एक 45 वर्षीय महिला, को पिछले तीन दिनों से पेट के निचले हिस्से में गंभीर दर्द और पेशाब करते समय तेज जलन की शिकायत थी, जिसके साथ उन्हें बार-बार पेशाब आने की इच्छा होती थी, हालांकि पेशाब की मात्रा कम थी। भर्ती के समय रोगी को हल्का बुखार (100.2°F) भी था। उन्होंने उल्टी, दस्त, या अन्य किसी महत्वपूर्ण प्रणालीगत लक्षण से इनकार किया। रोगी का पूर्व में ऐसा कोई एपिसोड नहीं हुआ था और उन्हें कोई ज्ञात सह-रुग्णता नहीं है।
+
+**शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोगपूर्ण, थोड़ी बेचैनी में।
+*   **रक्तचाप:** 120/80 mmHg
+*   **नाड़ी:** 88 प्रति मिनट, नियमित।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 100.2°F (मौखिक)।
+*   **पेट:** पेट के निचले हिस्से (सुप्राप्यूबिक क्षेत्र) में हल्का दर्द महसूस हुआ, कोई गांठ या सूजन नहीं। रीनल एंगल टेंडरनेस नकारात्मक।
+*   **अन्य प्रणालियाँ:** हृदय, फेफड़े और केंद्रीय तंत्रिका तंत्र की जांच सामान्य पाई गई।
+
+**शारीरिक जांच (छुट्टी के समय):**
+*   **सामान्य स्थिति:** सचेत, सक्रिय, लक्षण मुक्त।
+*   **रक्तचाप:** 118/78 mmHg
+*   **नाड़ी:** 80 प्रति मिनट।
+*   **श्वसन दर:** 16 प्रति मिनट।
+*   **तापमान:** 98.6°F (बुखार नहीं)।
+*   **",success,0.6302,False,1517,10.1
+DS_000025,12559306-DS-8,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Sent in with elevated d-dimer and tachycardia Major Surgical or Invasive Procedu,40e64e1be8,"**रोगी छुट्टी पत्र**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **पंजीकरण संख्या:** RGN-2023-005678
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **दाखिला तिथि:** 15/11/2023
+*   **छुट्टी की तिथि:** 20/11/2023
+*   **पता:** दिल्ली
+*   **सेवा:** आंतरिक चिकित्सा
+*   **एलर्जी:** ज्ञात दवा एलर्जी नहीं
+
+**मुख्य शिकायत:**
+रोगी",success,0.4735,False,321,9.32
+DS_000026,16692410-DS-14,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Malaise Major Surgical or Invasive Procedure: None History of Present Illness: M,77d414b4e6,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 409,
+        ""total_token_count"": 1908
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.35
+DS_000027,10354450-DS-23,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: Wellbutrin Attending: Chief Complaint: abdominal pain Major Surgical or Invasive Procedure: removal patch, closure w biologic mesh, vac, new jp x3 washou",a34dc2539f,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमएच-2023-12345
+*   **पता:** दिल्ली
+*   **दाखिले की तारीख:** 15/11/2023
+*   **छुट्टी की तारीख:** 18/11/2023
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पेट के ऊपरी हिस्से में गंभीर दर्द और बार-बार उल्टी होना, पिछले 2 दिनों से।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 2 दिनों से पेट के ऊपरी (एपिगैस्ट्रिक) हिस्से में लगातार, तेज दर्द हो रहा था, जो पीठ की ओर फैल रहा था। दर्द के साथ कई बार उल्टी हुई, जिसमें खाया हुआ भोजन और बाद में पित्त शामिल था। रोगी को बुखार या ठंड लगने की कोई शिकायत नहीं थी। पहले कभी ऐसी समस्या नहीं हुई थी। रोगी को मधुमेह या उच्च रक्तचाप जैसी कोई पुरानी बीमारी नहीं है। रोगी ने अनियमित रूप से शराब का सेवन करने की बात स्वीकार की। स्थानीय क्लीनिक में प्राथमिक जांच के बाद रोगी को आगे के मूल्यांकन और प्रबंधन के लिए हमारे अस्पताल में रेफर किया गया।
+
+**शारीरिक जांच (दाखिले के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति उन्मुख।
+*   **पल्स:** 98/मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 130/80 mmHg।
+*   **श्वसन दर:** 18/मिनट।
+*   **तापमान:** 99.2°F (मौखिक)।
+*   **पेट की जांच:** ऊपरी पेट में गंभीर कोमलता और गार्डिंग मौजूद थी। आंतों",success,0.6516,False,1217,9.01
+DS_000028,18343582-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: repair of recurrent incisional hernia Major Surgical or Invasive Proce,7278f596df,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 403,
+        ""total_token_count"": 1902
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.57
+DS_000029,15463422-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: NEUROLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Long Term Monitoring and medication management for seizures Major Surgical or I,902333cbee,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 390,
+        ""total_token_count"": 1889
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,15.26
+DS_000030,15737439-DS-4,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROSURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: disease Major Surgical or Invasive Procedure: : Right craniotomy for encepha,da5524334f,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 465,
+        ""total_token_count"": 1964
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.12
+DS_000031,16613366-DS-9,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Bactrim / Alphagan P Attending: Chief Complaint: Shortness of breath Major Surgical or Invasive Procedure: Chest xray History of Present Illness: Ms is ,1d7e4d764c,"**मरीज़ डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** RGN0012345
+*   **पता:** दिल्ली
+*   **प्रवेश तिथि:** 15.05.2024
+*   **डिस्चार्ज तिथि:** 20.05.2024
+*   **विभाग:** आंतरिक चिकित्सा
+*   **एलर्जी:** ज्ञात नहीं
+*   **परामर्शदाता चिकित्सक:** डॉ. शर्मा
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र, रुक-रुक कर होने वाले दर्द की शिकायत थी, जो पीठ की ओर फैलता था। दर्द खाने के बाद बढ़ जाता था। रोगी को कई बार उल्टी भी हुई, जिसमें पित्त जैसा पदार्थ था। उल्टी से दर्द में कोई खास राहत नहीं मिली। बुखार या पीलिया का कोई इतिहास नहीं था। रोगी को मधुमेह, उच्च रक्तचाप या किसी अन्य पुरानी बीमारी का कोई ज्ञात इतिहास नहीं है।
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति उन्मुख।
+*   **रक्तचाप:** 130/80",success,0.6464,False,939,8.99
+DS_000032,16451061-DS-15,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Dyspnea, Leg Swelling Major Surgical or Invasive Procedure: None History of Pres",f37290c6c7,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 512,
+        ""total_token_count"": 2011
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.9
+DS_000033,19531856-DS-27,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Penicillins / Codeine / latex / OxyContin Attending: Chief Complaint: Hemoptysis, chest pain Major Surgical or Invasive Procedure: None History of Prese",d09d8d68d7,"**अस्पताल से छुट्टी/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2023-12345
+*   **दिनांक:** 15 दिसंबर, 2023
+*   **पता:** दिल्ली
+*   **सेवा:** आंतरिक चिकित्सा
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, दिल्ली निवासी, आंतरिक चिकित्सा विभाग में पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में मध्यम से गंभीर दर्द और लगातार उल्टी की शिकायत के साथ भर्ती हुआ। दर्द अचानक शुरू हुआ, पेट के ऊपरी दाहिने क्वाड्रेंट में केंद्रित था, जो पीठ की ओर फैलता था। उल्टी में खाया हुआ भोजन और पित्त शामिल था, लगभग 4-5 बार प्रतिदिन। रोगी को पिछले एक दिन से बुखार (101°F) और पीलिया (आंखों और त्वचा का पीलापन) भी था। भूख कम हो गई थी और कमजोरी महसूस हो रही थी। कोई खांसी, सांस फूलना, दस्त या मूत्र संबंधी शिकायत नहीं थी। रोगी को उच्च रक्तचाप और मधुमेह का इतिहास है, जिसके लिए वह नियमित दवाएं ले रहा है। कोई सर्जिकल इतिहास नहीं। शराब या धूम्रपान का कोई ज्ञात",success,0.6898,False,1025,11.39
+DS_000034,15426345-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Codeine / Compazine Attending: Chief Complaint: Alcohol withdrawal Major Surgical or Invasive Procedure: None History of Present Illness: This is a year,039d57bc22,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 421,
+        ""total_token_count"": 1920
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.67
+DS_000035,12144619-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Percocet / Dilaudid Attending: Chief Complaint: scheduled admission for autoSCT Major Surgical or Invasive Procedure: Autologous Stem Cell Transplant on,12a13e1a97,"**मरीज़ छुट्टी सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** 2024-001234
+*   **दाखिल होने की तिथि:** 10/01/2024
+*   **छुट्टी की तिथि:** 15/01/2024
+*",success,0.4332,False,217,8.98
+DS_000036,10180204-DS-17,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Lipitor Attending: Chief Complaint: dyspnea Major Surgical or Invasive Procedure: None History of Present Illness: The patient is a female with past med,6b9796c858,"**मरीज़ को छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP12345
+*   **पता:** दिल्ली
+*   **दाखिले की तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 15/05/2024
+*   **एलर्जी:** कोई ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से में तेज दर्द और उल्टी की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+50 वर्षीय पुरुष रोगी को पिछले तीन दिनों से पेट के ऊपरी हिस्से में लगातार तीव्र दर्द की शिकायत के साथ अस्पताल में भर्ती किया गया था। दर्द भोजन के बाद बढ़ जाता था और पीठ की ओर फैलता नहीं था। पिछले दो दिनों से उन्हें उल्टी के कई एपिसोड हुए थे, जिसमें खाया हुआ भोजन और पित्त शामिल था। रोगी ने बुखार, ठंड लगना, पीलिया या मल के रंग में बदलाव से इनकार किया। मल त्याग सामान्य था। रोगी को पहले से मधुमेह, उच्च रक्तचाप या किसी अन्य पुरानी बीमारी का कोई ज्ञात इतिहास नहीं है। उन्होंने कोई सर्जरी नहीं करवाई है और धूम्रपान या शराब का सेवन नहीं करते हैं।
+
+**शारीरिक जांच (दाखिले के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा है, लेकिन दर्द में दिख रहा है।
+*   **वाइटल्स:**
+    *   पल्स: 88/मिनट, नियमित
+    *   रक्तचाप: 120/80 mmHg
+    *   श्वसन दर: 18/मिनट
+    *   तापमान: 98.6°F (मौखिक)
+*   **पेट की जांच:**
+    *   पेट नरम और सममित था।
+    *   पेट के ऊपरी हिस्से में हल्की कोमलता (epigastric tenderness) मौजूद थी।
+    *   अंगों का बढ़ना (organomegaly) या गांठ (mass) महसूस नहीं हुई।
+    *   आंत्र ध्वनियाँ (bowel sounds) सामान्य थीं।
+
+**निदान:**
+1.  तीव्र गैस्ट्राइटिस (Acute Gastritis)
+2.  संभावित पेप्टिक अल्सर रोग (Possible Peptic Ulcer Disease)
+
+**उपचार योजना (छुट्टी",success,0.5997,False,1564,11.12
+DS_000037,12138659-DS-12,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Multiple Myeloma admitted for high dose chemotherapy with autologous ,e8c924dae1,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 412,
+        ""total_token_count"": 1911
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,11.14
+DS_000038,14968931-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: 1) Headache 2) Hemoptysis Major Surgical or Invasive Procedure: None History of ,3d71fb450c,"**डिस्चार्ज सारांश**
+
+**अस्पताल का नाम:** [अस्पताल का नाम, उदा. श्री राम मल्टीस्पेशलिटी अस्पताल]
+**विभाग:** आंतरिक चिकित्सा
+**दिनांक:** 15/11/2023
+
+---
+
+**1. मरीज़ की जानकारी**
+*   **नाम:** श्री रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 2023-012345
+*   **दाखिला दिनांक:** 10/11/2023
+*   **डिस्चार्ज दिनांक:** 15/11/2023
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात एलर्जी नहीं / दवा प्रतिकूल प्रतिक्रिया नहीं
+
+**2. मुख्य शिकायत**
+रोगी को निम्नलिखित शिकायतें थीं:
+*   पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तेज दर्द।
+*   पिछले 2 दिनों से बुखार और ठंड लगना।
+*   सामान्य कमज़ोरी।
+
+**3. वर्तमान बीमारी का इतिहास**
+50 वर्षीय पुरुष रोगी, ज्ञात मधुमेह मेलेटस टाइप 2 (पिछले 10 वर्षों से मौखिक दवाओं पर) का इतिहास, पिछले 3 दिनों से अचानक शुरू हुए पेट के ऊपरी दाहिने हिस्से में गंभीर दर्द की शिकायत के साथ भर्ती हुआ। दर्द लगातार था, पीठ की ओर फैल रहा था, और भोजन के सेवन से बढ़ जाता था। यह दर्द उच्च श्रेणी के बुखार (102°F तक) के साथ ठंड लगना, मतली और कभी-कभी उल्टी से जुड़ा था। रोगी को पीलिया, गहरे रंग का मूत्र या मिट्टी के रंग के मल का कोई इतिहास नहीं था। अतीत में इसी तरह के एपिसोड का कोई इतिहास नहीं बताया गया। मधुमेह अच्छी तरह से नियंत्रित था। कोई अन्य महत्वपूर्ण चिकित्सा इतिहास नहीं था।
+
+**4. शारीरिक जांच**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहे, मध्यम रूप से अस्वस्थ दिख रहे।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 98/मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 18/मिनट।
+*   **तापमान:** 101°F (मौखिक)।
+*   **जॉन्डिस:** अनुपस्थित।
+*   **पेट:** पेट के ऊपरी दाहिने क्वाड्रेंट में कोमलता और गार्डिंग मौजूद थी। मर्फी का संकेत सकारात्मक था। आंतों की आवाजें सामान्य थीं। कोई पै",success,0.6549,False,1614,9.27
+DS_000039,17002060-DS-11,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: codeine / hydrocodone / Keflex / zolpidem / doxycycline Attending: Chief Complaint: Hypotension Major Surgical or Invasive Procedure: None History of Pr,4f268f7bb5,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 415,
+        ""total_token_count"": 1914
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.18
+DS_000040,19542080-DS-13,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: L sided numbness Major Surgical or Invasive Procedure: None History of Present ,1604d432cf,"**अस्पताल से छुट्टी का सारांश (Discharge Summary)**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री/श्रीमती रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OPD/2023/54321
+*   **दाखिला तिथि:** 10/11/2023
+*   **डिस्चार्ज तिथि:** 15/11/2023
+*   **पता:** दिल्ली
+*   **सेवा:** आंतरिक चिकित्सा
+*   **एलर्जी:** कोई ज्ञात एलर्जी नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से में तेज़ दर्द और बार-बार उल्टी की शिकायत के साथ अस्पताल में भर्ती कराया गया था।
+
+**वर्तमान बीमारी का इतिहास:**
+50 वर्षीय पुरुष रोगी, जिसे पिछले 3 दिनों से अचानक पेट के ऊपरी हिस्से में तेज़, लगातार दर्द का अनुभव हो रहा था। दर्द पीठ की ओर विकीर्ण (radiating) हो रहा था और खाने के बाद बढ़ जाता था। दर्द के साथ मतली और कई बार बिना पित्त वाली उल्टी भी हो रही थी। रोगी को भूख में कमी और सामान्य कमजोरी भी महसूस हो रही थी। रोगी को उच्च रक्तचाप (hypertension) का इतिहास है, जिसके लिए वह पिछले 5 वर्षों से दवा ले रहा है। मधुमेह या अस्थमा का कोई ज्ञात इतिहास नहीं है। रोगी ने शराब के कभी-कभार सेवन की बात स्वीकार की।
+
+**शारीरिक जांच (प्रवेश पर):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति उन्मुख।
+*   **नाड़ी:** 92/मिनट, नियमित।
+*   **रक्तचाप:** 140/90 mmHg।
+*   **श्वसन दर:** 18/मिनट।
+*   **तापमान:** 98.6°F (सामान्य)।
+*   **पेट:** ऊपरी हिस्से में कोमलता (tenderness), गार्डिंग या रिबाउंड टेंडरनेस मौजूद नहीं। आंत्र ध्वनियाँ (bowel sounds) सामान्य।
+*   **अन्य प्रणालियाँ:** हृदय और श्वसन प्रणाली की जांच सामान्य थी।
+
+**प्रयोगशाला और इमेजिंग परिणाम (मुख्य):**
+*   **सीरम एमाइलेज:** 300 U/L (उच्च)
+*   **सीरम लाइपेज:** 45",success,0.6134,False,1526,9.47
+DS_000041,11734276-DS-5,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: morphine / atorvastatin / Receptor Antagonist / Cholestyramine / cilostazol / lisinopril / simvastatin / Terazosin Attending: Chief Complaint: Worsening,8301b1ce22,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री/श्रीमती रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OPD-2023-01234
+*   **पता:** दिल्ली
+*   **दाखिला तिथि:** 15/11/2023
+*   **छुट्टी की तिथि:** 20/11/2023
+*   **परामर्शदाता चिकित्सक:** डॉ. शर्मा (आंतरिक चिकित्सा विभाग)
+
+---
+
+**मुख्य शिकायत:**
+रोगी को पिछले तीन दिनों से पेट में दर्द और उल्टी की शिकायत के साथ अस्पताल में भर्ती कराया गया था।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी ने बताया कि पिछले तीन दिनों से उन्हें लगातार ऊपरी पेट में दर्द हो रहा है, जो खाने के बाद बढ़ जाता है। दर्द के साथ, उन्हें दिन में 3-4 बार उल्टी भी हो रही थी, जिसमें खाया हुआ भोजन निकल जाता था। रोगी को हल्का बुखार (99",success,0.6221,False,696,10.76
+DS_000042,10302356-DS-24,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Sulfa (Sulfonamide Antibiotics) / Demerol / erythromycin / Codeine / Percocet / Darvon / Zofran / meperidine / propoxyphene / Haldol Attending: Chief Co,9e3f35b600,"**मरीज़ छुट्टी सारांश**
+
+**अस्पताल का नाम:** [अस्पताल का नाम -",flagged,0.6613,True,62,9.19
+DS_000043,19663491-DS-5,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: abacavir Attending: Chief Complaint: hypoxia Major Surgical or Invasive Procedure: Chest tube placement PICC History of Present Illness: Mr is with hist,ec3f6f29c3,"**अस्पताल से छुट्टी/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रमेश कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** IM20240514001
+*   **प्रवेश दिनांक:** 12 मई 2024
+*   **दिनांक:** 14 मई 2024
+*   **स्थान:** नई दिल्ली
+*   **विभाग:** आंतरिक चिकित्सा
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से (अधिजठर) में गंभीर दर्द और बार-बार उल्टी की शिकायत के साथ भर्ती किया गया था।
+
+**वर्तमान बीमारी का इतिहास:**
+श्री रमेश कुमार, 55 वर्षीय पुरुष, को 12 मई 2024 को अधिजठर क्षेत्र में तीव्र, लगातार दर्द के साथ अस्पताल में भर्ती किया गया था। दर्द पीठ की ओर फैल रहा था और खाने के बाद बढ़ जाता था। उन्हें पिछले 3 दिनों से दिन में 4-5 बार उल्टी हो रही थी, जिसमें भोजन के कण शामिल थे, लेकिन पित्त या रक्त नहीं था। रोगी को बुखार",success,0.6425,False,772,8.73
+DS_000044,11172413-DS-19,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Penicillins Attending: Chief Complaint: hypoxia, , weight gain Major Surgical or Invasive Procedure: none History of Present Illness: year old male hx N",076554ede4,"**मेडिकल डिस्चार्ज/रेडियोलॉजी नोट**
+
+**अस्पताल:** [काल्पनिक अस्पताल का नाम, उदा. श्री राम मल्टीस्पेशलिटी अस्पताल]
+**विभाग:** सामान्य चिकित्सा
+
+---
+
+**मरीज़ की जानकारी (मरीज़ की जानकारी)**
+
+*   **रोगी का नाम:** श्री/श्रीमती [रोगी]
+*   **पंजीकरण संख्या:** OPD-2024-56789
+*   **आयु:** 45 वर्ष
+*   **लिंग:** पुरुष
+*   **प्रवेश की तिथि:** 01/05/2024
+*   **निदान की तिथि:** 05/05/2024
+*   **पता:** दिल्ली
+*   **ज्ञात एलर्जी:** कोई ज्ञात नहीं
+
+---
+
+**मुख्य शिकायत (मुख्य शिकायत)**
+
+रोगी को पिछले 6 घंटों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द की शिकायत थी।
+
+---
+
+**वर्तमान बीमारी का इतिहास (वर्तमान बीमारी का इतिहास)**",success,0.5967,False,615,8.68
+DS_000045,15610977-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: NEUROSURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Left Major Surgical or Invasive Procedure: None History of Present Illness: ,f1b5612d5d,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 123456789
+*   **प्रवेश तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+*   **अटेंडिंग चिकित्सक:** डॉ. शर्मा
+
+**मुख्य शिकायत:**
+रोगी पिछले 3 दिनों से पेट के ऊपरी हिस्से में तीव्र दर्द, मतली और उल्टी की शिकायत के साथ अस्पताल में भर्ती हुए।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 50 वर्षीय पुरुष, को 15/05/2024 को पेट के ऊपरी हिस्से में अचानक शुरू हुए गंभीर दर्द के साथ भर्ती किया गया। दर्द लगातार बना हुआ था और भोजन के बाद बढ़ जाता था। उन्हें पिछले 3 दिनों से दिन में लगभग 4-5 बार उल्टी हो रही थी, जिसमें भोजन के कण थे, लेकिन रक्त नहीं था। रोगी को भूख कम लग रही थी और कमजोरी महसूस हो रही थी। मल त्याग सामान्य था। बुखार, खांसी या शरीर में दर्द की कोई शिकायत नहीं थी। रोगी ने घर पर दर्द के लिए कोई दवा नहीं ली थी। मरीज का पहले कोई बड़ा ऑपरेशन नहीं हुआ था और न ही कोई पुरानी बीमारी जैसे मधुमेह या उच्च रक्तचाप का इतिहास था।
+
+**शारीरिक जांच:**
+*",success,0.6591,False,1018,8.66
+DS_000046,12775971-DS-28,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Heparin Agents Attending: Chief Complaint: port placement, dehydration Major Surgical or Invasive Procedure: placement of Right single lumen port in inte",dee3c7325a,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 395,
+        ""total_token_count"": 1894
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.97
+DS_000047,15913953-DS-15,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: heparin Attending: Chief Complaint: hyponatremia, pneumonia, respiratory failure Major Surgical or Invasive Procedure: History of Present Illness: with ",da8ab5e415,"**चिकित्सा छुट्टी नोट**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** महिला रोगी
+*   **आयु:** 65 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** एम-2023-00789
+*   **दाखिले की तिथि:** 15/10/2023
+*   **छुट्टी की तिथि:** 20/10/2023
+*   **पता:** दिल्ली
+*   **एलर्जी:** कोई ज्ञात नहीं
+
+**मुख्य शिकायतें:**
+*   पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द।
+*   पेट दर्द के साथ उल्टी (लगभग 5",success,0.5222,False,383,9.61
+DS_000048,18940040-DS-5,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Amlodipine Attending: Chief Complaint: Back pain Major Surgical or Invasive Procedure: None History of Present Illness: PCP: Dr year-old woman with past,26ddfd13aa,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 384,
+        ""total_token_count"": 1883
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,11.81
+DS_000049,15203332-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROSURGERY Allergies: codeine / Penicillins / Levaquin Attending: Chief Complaint: Cerebral aneurysm Major Surgical or Invasive Procedure: : Embolization cerebral aneurys,a6d6419d21,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 384,
+        ""total_token_count"": 1883
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.63
+DS_000050,12557139-DS-27,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Nabumetone / Tizanidine / gabapentin Attending: Chief Complaint: Stage IIIA Cutaneous Follicular Lymphoma Major Surgical or Invasive Procedure: XRT trea,665b6fe49b,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 367,
+        ""total_token_count"": 1866
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.79
+DS_000051,12468016-DS-13,DS,"Name: No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Remicade / Lipitor Attending: Chief Complaint: dyspnea, fatigue Major Surgical or Invasive Procedure: none History of Present Illness: year old man here with",f409130521,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 382,
+        ""total_token_count"": 1881
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.47
+DS_000052,19190007-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Chemotherapy Major Surgical or Invasive Procedure: Packed red blood c,afacfe9f84,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 382,
+        ""total_token_count"": 1881
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.69
+DS_000053,10762995-DS-15,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: PSYCHIATRY Allergies: Sulfa (Sulfonamide Antibiotics) / Antihistamine Attending: Chief Complaint: ""It was stupid and I'm not fucking going to the nut house again"" Major Sur",7445092976,"**अस्पताल से छुट्टी/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एम-12345
+*   **दिनांक:** 25 मई, 2024
+*   **स्थान:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट में दर्द और उल्टी की शिकायत है।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से लगातार पेट के ऊपरी हिस्से में गंभीर दर्द का अनुभव हो रहा है, जो कभी-कभी पीठ तक फैल जाता है। दर्द की शुरुआत अचानक हुई थी और यह लगातार बना हुआ है। दर्द के साथ रोगी को बार-बार उल्टी भी हुई है, जिसमें पहले भोजन और बाद में पित्त शामिल था। रोगी को भूख में कमी और पिछले एक सप्ताह में लगभग 2 किलो वजन कम होने की भी शिकायत है। बुखार, दस्त या पीलिया का कोई इतिहास नहीं है। रोगी ने पहले कभी ऐसी शिकायत का अनुभव नहीं किया है। रोगी को मधुमेह या उच्च रक्तचाप का कोई ज्ञात इतिहास नहीं है। धूम्रपान या शराब के सेवन का कोई इतिहास नहीं है।
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति सचेत, मध्यम रूप से पीड़ित दिख रहा है।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 88 प्रति मिनट, नियमित
+*   **श्वसन दर:** 18 प्रति मिनट
+*   **तापमान:** 98.6°F (मौखिक)
+*   **पेट:** ऊपरी पेट में हल्की से मध्यम कोमलता, गार्डिंग या रिबाउंड टेंडरनेस अनुपस्थित। कोई स्पष्ट द्रव्यमान या अंग वृद्धि महसूस नहीं हुई। आंत्र ध्वनियाँ सामान्य थीं।
+*   **हृदय और फेफड़े:** ऑस्कल्टेशन पर सामान्य।
+*   **त्वचा और श्लेष्मा झिल्ली:** सामान्य रंग, पीलिया अनुपस्थित।
+
+**निदान:**
+*   तीव्र अग्नाशयशोथ (Acute Pancreatitis) - संभावित।
+*   पेट दर्द का अज्ञात कारण।
+
+**उपचार योजना:**
+1.  **अस्पताल में भर्ती:** रोगी को तत्काल अस्पताल में",success,0.6669,False,1570,8.88
+DS_000054,12050380-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: abdominal pain and diarrhea Major Surgical or Invasive Procedure: non,8e3085ccab,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 413,
+        ""total_token_count"": 1912
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.69
+DS_000055,10197263-DS-19,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Hyperbilirubinemia Major Surgical or Invasive Procedure: None History of Present,48aaee8d40,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 374,
+        ""total_token_count"": 1873
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.71
+DS_000056,18791538-DS-16,DS,Name: No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: ORTHOPAEDICS Allergies: Penicillins Attending: Chief Complaint: Post-op swelling Major Surgical or Invasive Procedure: None History of Present Illness: CC: Post-op swelling s/p ,f7d8fc80e9,"**निर्वहन/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP123456
+*   **पता:** दिल्ली
+*   **दिनांक:** 20 अक्टूबर, 2023
+*   **विभाग:** आंतरिक चिकित्सा
+*   **एलर्जी:** ज्ञात नहीं
+
+---
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द और बुखार।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट में दर्द और बुखार की शिकायत के साथ आपातकालीन विभाग में उपस्थित हुए। पेट दर्द धीरे-धीरे शुरू हुआ, जो पेट के ऊपरी दाहिने हिस्से में केंद्रित था और रुक-रुक कर आता था। यह दर्द कभी-कभी पीठ की ओर भी फैलता है। रोगी ने दर्द की तीव्रता 10 में से 7 बताई है। बुखार 101°F (38.3°C) तक पहुँच गया था, जो ठंड लगने के साथ आता था और मौखिक पैरासिटामोल लेने पर कम हो जाता था। पिछले 2 दिनों से, रोगी ने अपनी त्वचा और आँखों में पीलापन (पीलिया), गहरे रंग का मूत्र और हल्के रंग का मल भी देखा है। उसे भूख में कमी और हल्की मतली भी महसूस हुई है, लेकिन उल्टी नहीं हुई है। रोगी को पिछले 10 वर्षों से टाइप 2 मधुमेह मेलिटस और उच्च रक्तचाप का इतिहास है, जिसके लिए वह नियमित रूप से मौखिक हाइपोग्लाइसेमिक और एंटी-हाइपरटेंसिव दवाएं ले रहा है।
+
+---
+
+**शारीरिक जांच:**
+*",success,0.6748,False,1153,16.81
+DS_000057,15086322-DS-17,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Aspirin / Penicillins / NSAIDS / Cipro / lisinopril / morphine Attending: Chief Complaint: Hypotension during HD Major Surgical or Invasive Procedure: N,b7308eddca,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 409,
+        ""total_token_count"": 1908
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.92
+DS_000058,17302570-DS-7,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Coreg Attending: Chief Complaint: Chest pain/SOB, NSTEMI Major Surgical or Invasive Procedure: Valve-in-valve TAVR () History of Present Illness: is a m",af997e6971,"**चिकित्सा डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्रीमान/श्रीमती रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** MH0012345
+*   **पता:** दिल्ली
+*   **दाखिले की तिथि:** 05/03/2024
+*   **डिस्चार्ज की तिथि:** 10/03/2024
+*   **विभाग:** आंतरिक चिकित्सा
+
+---
+
+**मुख्य शिकायत (Chief Complaint):**
+रोगी को पिछले 4 घंटे से छाती में दर्द और सांस लेने में तकलीफ की शिकायत के साथ आपातकालीन विभाग में लाया गया।
+
+---
+
+**वर्तमान बीमारी का इतिहास (History of Present Illness):**
+55 वर्षीय पुरुष रोगी को 05/03/2024 को अचानक, आराम की स्थिति में छाती के बीच में तेज दर्द शुरू हुआ। दर्द बाईं बांह और जबड़े तक फैल रहा था। दर्द के साथ पसीना आना, घबराहट और सांस लेने में तकलीफ भी महसूस हुई। रोगी ने घर पर कोई दवा नहीं ली।
+रोगी को पिछले 10 वर्षों से उच्च रक्तचाप और मधुमेह मेलिटस टाइप 2 का इतिहास है, जिसके लिए वह नियमित दवाएं ले रहा है। पिछले 20 वर्षों से धूम्रपान का इतिहास (प्रतिदिन लगभग 10 सिगरेट) है। परिवार में हृदय रोग का इतिहास है (पिता को 60 वर्ष की आयु में दिल का दौरा पड़ा था)। पहले कभी ऐसे लक्षण नहीं हुए थे।
+
+---
+
+**शारीरिक जांच (Physical Examination):**
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा है, बेचैन।
+*   **रक्तचाप:** 140/90 mmHg (दाहिनी बांह, बैठने की स्थिति में)
+*   **नाड़ी:** 100 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 22 प्रति मिनट
+*   **तापमान:** 98.6°F (ओरल",success,0.5998,False,1312,10.31
+DS_000059,12219674-DS-18,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: weight gain, tachycardia Major Surgical or Invasive Procedure: Atrial flutter ab",d03a91fa47,"**चिकित्सीय छुट्टी पर्ची**
+
+---
+
+**मरीज़ की जानकारी:**
+
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 12345678
+*   **दाखिल होने की तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **विभाग:** आंतरिक चिकित्सा
+*   **परामर्शदाता:** डॉ. शर्मा
+
+---
+
+**मुख्य शिकायत:**
+
+रोगी को पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और बार-बार उल्टी की शिकायत थी।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+
+50 वर्षीय पुरुष रोगी को 15/05/2024 को अस्पताल में भर्ती कराया गया था, जिसमें पिछले 3 दिनों से पेट के ऊपरी हिस्से में लगातार दर्द और उल्टी के लक्षण थे। दर्द धीरे-धीरे बढ़ा और उल्टी में भोजन के कण तथा पित्त शामिल थे। रोगी ने पिछले 24 घंटों से कुछ भी खाने या पीने में असमर्थता बताई। बुखार या दस्त का कोई इतिहास नहीं था। रोगी को कोई ज्ञात पुरानी बीमारी (जैसे मधुमेह, उच्च रक्तचाप) नहीं है और कोई दवा एलर्जी भी नहीं बताई गई।
+
+---
+
+**शारीरिक जांच:**
+
+*   **सामान्य स्थिति:** सचेत, सहयोग कर रहा है, लेकिन दर्द में प्रतीत हो रहा था।
+*   **नाड़ी:** 98/मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 120/80 mmHg.
+*   **श्वसन दर:** 18/मिनट।
+*   **तापमान:** 99.8°F (मौखिक)।
+*   **पेट की जांच:** पेट नरम, लेकिन ऊपरी मध्य भाग (एपिगैस्ट्रिक क्षेत्र)",success,0.6162,False,1183,8.98
+DS_000060,16736246-DS-11,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Gadolinium-Containing Contrast Media Attending: Chief Complaint: Vomiting, small bowel obstruction Major Surgical or Invasive Procedure: None History of",8434e5993a,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **अस्पताल आई.डी.:** आर.आई.डी.-12345
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **देखभाल करने वाले चिकित्सक:** डॉ. रवि कुमार
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से छाती में दर्द, सांस फूलना और हल्की खांसी की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को 3 दिन पहले अचानक छाती के बाईं ओर तेज़ दर्द शुरू हुआ, जो बाईं भुजा तक फैल रहा था। दर्द लगातार था और शारीरिक गतिविधि करने पर बढ़ जाता था। इसके साथ ही सांस फूलने की समस्या भी थी, खासकर सीढ़ियाँ चढ़ते समय। रोगी ने यह भी बताया कि उसे हल्की खांसी है जिसके साथ थोड़ा सफेद बलगम भी आ रहा था। बुखार, ठंड लगना या घबराहट जैसी कोई और शिकायत नहीं थी।
+रोगी को पिछले 10 वर्षों से उच्च रक्तचाप की समस्या है, जिसके लिए वह अनियमित रूप से दवा ले रहा था। मधुमेह, थायरॉइड रोग, या हृदय रोग का कोई ज्ञात पारिवारिक इतिहास नहीं है। रोगी धूम्रपान नहीं करता और शराब का सेवन कभी-कभी करता है।
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** रोगी सचेत, समय और स्थान के प्रति उन्मुख था।
+*   **नाड़ी:** 88 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 150/90 mmHg (दाहिनी भुजा, बैठने की स्थिति में)।
+*   **श्वसन दर:** 20 प्रति मिनट।
+*   **तापमान:** 98.6°F (सामान्य)।
+*   **श्वसन तंत्र:** दोनों फेफड़ों में हवा का प्रवेश अच्छा, बिखरी हुई घरघराहट (rhonchi) सुनी गई।
+*   **हृदय-संवहन तंत्र:** S1 S2 सामान्य, कोई अतिरिक्त ध्वनि या बड़ब",success,0.6559,False,1427,8.87
+DS_000061,16199928-DS-18,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Elective RHC with planned milrinone taper Major Surgical or Invasive Procedure: ,815aeef30c,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 392,
+        ""total_token_count"": 1891
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.59
+DS_000062,18084941-DS-8,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: cefazolin Attending: Chief Complaint: Nausea/vomiting, diarrhea Major Surgical or Invasive Procedure: None History of Present Illness: Ms is a year-old ",ccb7842381,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रमेश कुमार
+*   **अस्पताल पंजीकरण संख्या:** 2024-12345
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** दिल्ली
+*   **दाखिल होने की तिथि:** 15 मई 2024
+*   **छुट्टी की तिथि:** 20 मई 2024
+*   **सेवा:** आंतरिक चिकित्सा
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में तेज दर्द और 2 दिनों से बुखार।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने चतुर्थांश में अचानक तेज दर्द की शिकायत के साथ भर्ती किया गया था। दर्द लगातार बना रहता है, पीठ की ओर फैलता है और भोजन करने के बाद बढ़ जाता है। दर्द के साथ पिछले 2 दिनों से रुक-रुक कर बुखार (101°F) भी था, जिसके साथ ठंड लगना और पसीना आना भी शामिल था। रोगी को पिछले 24 घंटों में मतली और उल्",success,0.6418,False,751,9.0
+DS_000063,14711950-DS-18,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: shellfish derived Attending: Chief Complaint: elective admission for chemotherapy Major Surgical or Invasive Procedure: None History of Present Illness:,441b61c103,"**सरकारी अस्पताल, दिल्ली**
+**रोगी डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **पंजीकरण संख्या:** OP-2023-001234
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** दिल्ली
+*   **प्रवेश की तिथि:** 12 नवंबर, 2023
+*   **छुट्टी की तिथि:** 15 नवंबर, 2023
+*   **सेवा:** आंतरिक चिकित्सा
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से अचानक छाती में दर्द और सांस लेने में कठिनाई की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+50 वर्षीय पुरुष रोगी 12 नवंबर, 2023 को तेज, लगातार छाती में दर्द की शिकायत के साथ आपातकालीन विभाग में भर्ती हुए। दर्द छाती के बाईं ओर शुरू हुआ और बाएं हाथ तक फैल गया, जिसके साथ सांस लेने में कठिनाई (डिस्प्निया) और अत्यधिक पसीना भी था। दर्द श्रम करने पर बढ़ जाता था और आराम करने पर थोड़ा कम होता था। रोगी को घबराहट भी महसूस हुई। रोगी",success,0.6467,False,767,8.76
+DS_000064,12314006-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Drainage from port site Major Surgical or Invasive Procedure: None Hi,4978c08eba,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 369,
+        ""total_token_count"": 1868
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.97
+DS_000065,12453158-DS-22,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: with poorly controlled DM, HTN s/p open R TMA (podiatry) with subsequent closure ",1a4119e397,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 486,
+        ""total_token_count"": 1985
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.38
+DS_000066,17259266-DS-6,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: PLASTIC Allergies: tree nut / adhesive tape / latex / sutures / Cephalosporins Attending: Chief Complaint: Bilateral lower extremity exertional compartment syndrome Major S,9770efb286,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 361,
+        ""total_token_count"": 1860
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.37
+DS_000067,11392962-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: chest pain Major Surgical or Invasive Procedure: None History of Pres,6a45fa308a,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 392,
+        ""total_token_count"": 1891
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.42
+DS_000068,11170690-DS-10,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: bilateral thigh weakness Major Surgical or Invasive Procedure: : bilateral extern,90bce05764,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 406,
+        ""total_token_count"": 1905
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,10.62
+DS_000069,19297337-DS-7,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: CARDIOTHORACIC Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Shortness of breath Major Surgical or Invasive Procedure: Video-assisted t,9593b3a07c,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** RGN0012345
+*   **प्रवेश तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 15/05/2024
+*   **विभाग:** आंतरिक चिकित्सा
+*   **डॉक्टर:** डॉ. अंजलि शर्मा
+*   **पता:** दिल्ली
+*   **ज्ञात एलर्जी:** कोई नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में तेज दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, 10/05/2024 को पेट के ऊपरी हिस्से में तेज दर्द और उल्टी की शिकायत के साथ आपातकालीन विभाग में भर्ती हुए। दर्द अचानक शुरू हुआ था, लगातार बना हुआ था, और पीठ की ओर फैल रहा था। उल्टी में खाया हुआ भोजन और पित्त शामिल था, जो दिन में 4-5 बार हो रही थी। रोगी को बुखार या पीलिया का कोई इतिहास नहीं था। रोगी को उच्च रक्तचाप और मधुमेह का इतिहास है, जिसके लिए वह पिछले 5 वर्षों से नियमित दवाएं ले रहा है (टेल्मिसार्टन 40 मिलीग्राम और मेटफॉर्मिन 500 मिलीग्राम प्रतिदिन)। पिछले कुछ हफ्तों से भूख में कमी भी बताई। किसी भी ज्ञात मादक पदार्थ के सेवन का इतिहास नहीं है।
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति जागरूक, दर्द में।
+*   **वाइटल्स:**
+    *   नाड़ी: 98/मिनट, नियमित, अच्छी मात्रा
+    *   रक्तचाप: 140/90 mmHg
+    *   श्वसन दर: 20/मिनट
+    *   तापमान: 100.2°F (मौखिक)
+*   **पेट:** पेट फूला हुआ, ऊपरी पेट में गंभीर कोमलता (tenderness), गार्डिंग मौजूद। आंत्र ध्वनियाँ कम। रीबाउंड टेंडरनेस मौजूद।
+*   **अन्य:** हृदय और फेफड़ों की जांच सामान्य सीमा के भीतर। त्वचा और श्लेष्म झिल्ली पर कोई पीलिया नहीं।
+
+**निदान:**
+1.",success,0.6373,False,1500,11.53
+DS_000070,18549835-DS-17,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Erythromycin Base / Tetracycline / amlodipine / Penicillins Attending: Chief Complaint: Found down Major Surgical or Invasive Procedure: R subclavian CV,560e4e3265,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 396,
+        ""total_token_count"": 1895
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,11.52
+DS_000071,18734362-DS-13,DS,Name: Unit : Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Dyspnea Major Surgical or Invasive Procedure: None History of Present Illness: This i,b48a5d6c8f,"**डिस्चार्ज सारांश / रेडिओलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एम-123456
+*   **प्रवेश तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+*   **देखभाल करने वाले डॉक्टर:** डॉ. राजेश शर्मा
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से ऊपरी पेट में तीव्र दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, पिछले तीन दिनों से ऊपरी पेट में तीव्र, लगातार दर्द की शिकायत के साथ अस्पताल में भर्ती हुआ। दर्द पीठ की ओर फैलता है और भोजन करने के बाद बढ़ जाता है। दर्द के साथ-साथ, रोगी को पिछले 2 दिनों से लगातार उल्टी (लगभग 4-5 बार प्रतिदिन) हो रही है, जिसमें भोजन और पित्त का मिश्रण होता है। उसे बुखार या ठंड लगने का कोई इतिहास नहीं है। मल त्याग सामान्य है। पेशाब में कोई कठिनाई नहीं है। रोगी को उच्च रक्तचाप और मधुमेह मेलेटस का ज्ञात इतिहास है, जिसके लिए वह नियमित दवाएं ले रहा है। अस्पताल में भर्ती होने पर, प्रारंभिक जांच और उपचार शुरू किया गया।
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, सतर्क और सहयोग कर रहा है।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 88 प्रति मिनट",success,0.6566,False,1124,8.87
+DS_000072,18361047-DS-15,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: Ranitidine Attending: Chief Complaint: pelvic pain, back pain Major Surgical or Invasive Procedure: IV antibiotics History of Present Illne",b576b9642b,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 400,
+        ""total_token_count"": 1899
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.18
+DS_000073,18799490-DS-11,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: fever Major Surgical or Invasive Procedure: , pp fever History of P",a75e6bb72b,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 480,
+        ""total_token_count"": 1979
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.9
+DS_000074,15779915-DS-3,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Confusion, right frontal lesion Major Surgical or Invasive Procedure: Sacral De",53094e1bec,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 387,
+        ""total_token_count"": 1886
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,13.59
+DS_000075,12340737-DS-34,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Complaint: blood in stool Major Surgical or Invasive Procedure: None History of Presen,de6d2487e7,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री. रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमडी/2023/56789
+*   **दाखिल होने की तिथि:** 1",success,0.4944,False,178,9.59
+DS_000076,10526582-DS-8,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Penicillins Attending: Chief Complaint: s/p PEA arrest Major Surgical or Invasive Procedure: cooling protocol History of Present Illness: This is a year,ed09345350,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 429,
+        ""total_token_count"": 1928
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.19
+DS_000077,14606921-DS-8,DS,"Name: ) Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: CARDIOTHORACIC Allergies: Effexor Attending: Chief Complaint: cough and dyspnea Major Surgical or Invasive Procedure: : Right thoracotomy and tracheoplasty with mesh, rig",833f5439f9,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 391,
+        ""total_token_count"": 1890
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.39
+DS_000078,16583295-DS-3,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: CARDIOTHORACIC Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Chest pain Major Surgical or Invasive Procedure: Pericardial St,bc4b854e8e,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 442,
+        ""total_token_count"": 1941
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.07
+DS_000079,17318449-DS-29,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Paxil Attending: Chief Complaint: Fatigue/Weakness Major Surgical or Invasive Procedure: None History of Present Illness: w/hx of DM, atrial flutter, CA",1d65ea1549,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 409,
+        ""total_token_count"": 1908
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.35
+DS_000080,16901966-DS-5,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Vicodin Attending: Chief Complaint: Foot pain and right lower extremity cellulitis Major Surgical or Invasive Procedure: Charcot foot hardware removal o,dacbd335db,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 394,
+        ""total_token_count"": 1893
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.41
+DS_000081,10516481-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Percocet / morphine / iodine Attending: Chief Complaint: symptomatic left liver hemangioma Major Surgical or Invasive Procedure: Segmental liver resectio,f76dd070c4,"**निर्वहन सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** R-123456
+*   **प्रवेश तिथि:** 10.05.2024
+*   **निर्वहन तिथि:** 15.05.2024
+*   **पत्ता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+*   **मुख्य चिकित्सक:** डॉ. अरुण शर्मा
+*   **सेवा:** शल्य चिकित्सा
+
+**मुख्य शिकायत",success,0.4879,False,330,9.19
+DS_000082,17305653-DS-14,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Compazine / hydromorphone Attending: Chief Complaint: Abdominal pain Major Surgical or Invasive Procedure: Laparoscopic cholecystectomy History of Presen,39074f9968,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 385,
+        ""total_token_count"": 1884
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.38
+DS_000083,13245156-DS-17,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Biaxin Attending: Chief Complaint: Gallstone Pancreatitis Major Surgical or Invasive Procedure: ERCP Laparoscopic cholecystectomy with cholangiogram Hist,c1ece085b8,"**निदान एवं उपचार सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्रीमती रेखा देवी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** महिला
+*   **पता:** दिल्ली
+*   **अस्पताल पंजीकरण संख्या:** 2024-05-12345
+*   **प्रवेश तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 15/05/2024
+*   **परामर्शदाता चिकित्सक:** डॉ. अनिता शर्मा
+
+---
+
+**मुख्य शिकायत:**
+*   पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द।
+*   पिछले 2 दिनों से मतली और उल्टी।
+
+---
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को 3 दिन पहले पेट के ऊपरी दाहिने हिस्से में अचानक, तीव्र, लगातार दर्द की शिकायत के साथ अस्पताल में भर्ती किया गया था। दर्द पीठ की ओर फैलता हुआ महसूस हुआ। दर्द के साथ पिछले 2 दिनों से मतली और पित्त युक्त उल्टी के कई एपिसोड भी थे। रोगी को बुखार या पीलिया का कोई इतिहास नहीं था। रोगी ने घर पर दर्द निवारक दवाएं ली थीं, लेकिन उनसे कोई खास राहत नहीं मिली। रोगी को पहले ऐसी कोई शिकायत नहीं हुई थी।
+
+---
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति उन्मुख, मध्यम निर्मित।
+*   **नाड़ी:** 88 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 130/80 mmHg।
+*   **श्वसन दर:** 18 प्रति मिनट, उथली।
+*   **तापमान:** 98.6°F (एफेब्राइल)।
+*   **पेट:** ऊपरी दाहिने क्वाड्रेंट में स्पष्ट कोमलता, गार्डिंग और रिबाउंड टेंडरनेस मौजूद। मर्फी का संकेत सकारात्मक। पेट की कोई सूजन नहीं। आंत्र ध्वनियाँ सामान्य।
+*   **त्वचा/श्लेष्म झिल्ली:** पीलिया या पैलोर का कोई संकेत नहीं।
+
+---
+
+**निदान:**
+*   तीव्र पित्ताशय शोथ (Acute Cholecystitis) - पित्त पथरी के कारण।
+
+---
+
+**उपचार योजना:**
+**अस्पताल में भर्ती के दौरान किए गए उपचार:**
+1.",success,0.6388,False,1520,9.9
+DS_000084,10824694-DS-28,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Nitroimidazole Derivatives / Levofloxacin / Meperidine / Bactrim / Flagyl / morphine / Zofran / steri strips / atenolol Attending: Chief Complaint: RUQ ,4423b90afa,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 385,
+        ""total_token_count"": 1884
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,12.1
+DS_000085,11285576-DS-13,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: shellfish derived Attending: Chief Complaint: dysuria, fevers, n/v Major Surgical or Invasive Procedure: None History of Present Illness: year old man a",b174113aaf,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 432,
+        ""total_token_count"": 1931
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.64
+DS_000086,12148375-DS-12,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: L distal femur nonunion Major Surgical or Invasive Procedure: L distal femur rev,456df5b71a,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 407,
+        ""total_token_count"": 1906
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,15.75
+DS_000087,11875958-DS-15,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Penicillins / codeine Attending: Complaint: hypercarbic respiratory failure Major Surgical or Invasive Procedure: Intubation Extubation History of Prese,80095df262,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 371,
+        ""total_token_count"": 1870
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,13.89
+DS_000088,11441166-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROLOGY Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: inability to respond to questions Major Surgical or Invasive Procedu,42fa6b6e19,"**अस्पताल से छुट्टी का सारांश**
+
+---
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमएच-2023-54321
+*   **दाखिले की तारीख:** 10 अक्टूबर, 2023
+*   **छुट्टी की तारीख:** 15 अक्टूबर, 2023
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात कोई दवा एलर्जी नहीं
+
+---
+
+**मुख्य शिकायत:**
+मरीज़ पेट में गंभीर दर्द और लगातार उल्टी की शिकायत के साथ अस्पताल में भर्ती हुआ था",success,0.5607,False,412,13.07
+DS_000089,12935747-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: OBSTETRICS/GYNECOLOGY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: induction of labor Major Surgical or Invasive Procedure: None Histo,3a83287344,"**डिस्चार्ज सारांश**
+
+**रोगी का विवरण:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 2023-001234
+*   **दाखिला तिथि:** 10/11/2023
+*   **छुट्टी की तिथि:** 15/11",success,0.4264,False,197,9.44
+DS_000090,17249596-DS-12,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: CARDIOTHORACIC Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Shortness of breath Major Surgical or Invasive Procedure: Mitral valve rep,ac3444f2c3,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **अस्पताल पंजीकरण संख्या:** 2024-00123
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **निवास:** दिल्ली
+*   **प्रवेश तिथि:** 10 मई 2024
+*   **छुट्टी की तिथि:** 15 मई 2024
+*   **उपस्थित चिकित्सक:** डॉ. अंजलि शर्मा
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द और उल्टी की शिकायत के साथ भर्ती किया गया था।
+
+**वर्तमान बीमारी का इतिहास:**
+यह 50 वर्षीय पुरुष रोगी पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में लगातार दर्द का अनुभव कर रहा था, जो भोजन के बाद बढ़ जाता था। दर्द के साथ उसे बार-बार उल्टी हो रही थी (दिन में लगभग 4-5 बार, जिसमें खाया हुआ भोजन और पित्त शामिल था) और हल्का बुखार (100.2°F) भी था। उसे भूख में कमी और कमजोरी भी महसूस हो रही थी। रोगी को उच्च रक्तचाप का इतिहास है, जिसके लिए वह नियमित रूप से दवा ले रहा है। उसने कोई स्व-चिकित्सा नहीं की थी और पहले ऐसी कोई शिकायत नहीं थी।
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** सचेत, सहयोगपूर्ण, पीलापन नहीं, इक्टेरस नहीं, साइनोसिस नहीं।
+*",success,0.6623,False,1001,9.78
+DS_000091,13313381-DS-9,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: PODIATRY Allergies: Shellfish Derived Attending: Chief Complaint: Left foot Infection Major Surgical or Invasive Procedure: : Left foot debridement, external fixator placem",c9b34b012b,"**निदान रिपोर्ट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 123456789
+*   **प्रवेश तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 20/05/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और उल्टी की शिकायत के साथ अस्पताल में भर्ती हुए।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 50 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी हिस्से में लगातार, जलन वाले दर्द और बार-बार उल्टी की शिकायत के साथ आपातकालीन विभाग में आए। दर्द धीरे-धीरे बढ़ा, खाने के बाद बिगड़ता है और एंटासिड से आंशिक रूप से राहत मिलती है। उल्टी में भोजन के कण शामिल हैं, रक्त नहीं। पिछले 2 दिनों से उन्हें निम्न-श्रेणी का बुखार भी था (अधिकतम 101°F)। मल त्याग सामान्य बताया गया। मूत्र त्याग सामान्य था। रोगी को पहले ऐसा कोई इतिहास नहीं था और न ही मधुमेह, उच्च रक्तचाप या किसी अन्य पुरानी बीमारी का कोई ज्ञात इतिहास है। वह कोई नियमित दवा नहीं ले रहे थे।
+
+**शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** मध्यम, सचेत और समय, स्थान, व्यक्ति के प्रति उन्मुख।
+*   **रक्तचाप:** 130/80 mmHg
+*   **नाड़ी:** 90 bpm, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 18/min
+*   **तापमान:** 100°F (37.8°C)
+*   **पेट:**
+    *   देखने में सामान्य, कोई विरूपता या",success,0.6321,False,1234,8.82
+DS_000092,14097607-DS-40,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Iodine-Iodine Containing / Codeine / Meperidine / Potassium Chloride / Lorazepam Attending: Chief Complaint: abdominal pain, nausea Major Surgical or In",0a400373d4,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 392,
+        ""total_token_count"": 1891
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.17
+DS_000093,15465484-DS-16,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Chest pain Major Surgical or Invasive Procedure: Cardiac cath History,8fca7c3adb,"**अस्पताल से छुट्टी/रेडियोलॉजी नोट**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री रमेश कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** दिल्ली
+*   **अस्पताल पंजीकरण संख्या:** A1234567
+*   **प्रवेश तिथि:** 10 मई 2024
+*   **छुट्टी की तिथि:** 15 मई 2024
+*   **परामर्शदाता चिकित्सक:** डॉ. शर्मा
+*   **एलर्जी:** कोई ज्ञात दवा एलर्जी नहीं।
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में गंभीर दर्द और बार-बार उल्टी होना।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी ने बताया कि उसे 3 दिन पहले अचानक पेट के ऊपरी मध्य भाग में तीव्र, लगातार दर्द शुरू हुआ। यह दर्द पीठ की ओर फैल रहा था और भोजन करने के बाद बढ़ जाता था। दर्द के साथ, उसे कई बार उल्टी भी हुई, जिसमें पहले खाया हुआ भोजन और बाद में पित्त जैसा पदार्थ निकला। उसे बुखार, दस्त या पीलिया की कोई शिकायत नहीं थी। रोगी को पहले ऐसी कोई समस्या नहीं हुई थी। उसकी चिकित्सीय पृष्ठभूमि में कोई विशेष बीमारी नहीं है। रोगी धूम्रपान करता है और कभी-कभी शराब का सेवन भी करता है।
+
+**शारीरिक जांच:**
+*   **सामान्य स्थिति:** मध्यम रूप से अस्वस्थ, सचेत और समय-स्थान-व्यक्ति के प्रति उन्मुख।
+*   **रक्तचाप (BP):** 130/80 mmHg (दाएं हाथ में, बैठने की स्थिति में)
+*   **नाड़ी (Pulse):** 98 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर (RR):** 18 प्रति मिनट, उथला।
+*   **तापमान:** 98.6°F (एफ़ेब्राइल)।
+*   **पेट",success,0.6464,False,1250,9.05
+DS_000094,18304932-DS-30,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Indocin / Toradol / Erythromycin Base / Neurontin / Lipitor / Doxazosin / Simvastatin / Ativan / Motrin / Bactrim Attending: Chief Complaint: leg swelli,43f8d1f9a3,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **पंजीकरण संख्या:** 12345678
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **प्रवेश तिथि:** 15/03/2024
+*   **छुट्टी की तिथि:** 20/03/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पेट के ऊपरी हिस्से में तेज दर्द और उल्टी, पिछले 2 दिनों से।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 2 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र, लगातार दर्द की शिकायत थी, जो पीठ तक फैलता था। दर्द के साथ कई बार उल्टी हुई, जिसमें खाया हुआ भोजन और पित्त शामिल था। उल्टी से कोई राहत नहीं मिली।",success,0.6159,False,578,8.21
+DS_000095,17974801-DS-4,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: CARDIOTHORACIC Allergies: recorded as having No Known Allergies to Drugs Attending: Chief Complaint: Unstable angina Major Surgical or Invasive Procedure: Coronary artery b,180ee66709,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 403,
+        ""total_token_count"": 1902
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.68
+DS_000096,12173450-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Ace Inhibitors / Lisinopril / Nifedipine / Procardia / Lipitor / Zocor / Pravachol / Avandia Attending: Chief Complaint: Poor wound healing Major Surgica,062b95cdcb,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 415,
+        ""total_token_count"": 1914
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,8.76
+DS_000097,13367706-DS-4,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: NEUROSURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Fall Major Surgical or Invasive Procedure: None History of Present Illness: ,2263a08bde,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री. राम प्रकाश
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** एमडी/2023/12345
+*   **एडमिशन तिथि:** 10/11/2023
+*   **डिस्चार्ज तिथि:** 15/11/2023
+*   **पता:** दिल्ली
+*   **इलाज करने वाले चिकित्सक:** डॉ. अंजलि शर्मा (आंतरिक चिकित्सा)
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में दर्द और हल्का बुखार।
+
+**वर्तमान बीमारी का इतिहास:**
+श्री. राम प्रकाश, 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र, लगातार दर्द और साथ में हल्के बुखार (अधिकतम 100.8°F) की शिकायत के साथ आपातकालीन विभाग में भर्ती हुए। दर्द अचानक शुरू हुआ था और पीठ की ओर फैलता हुआ महसूस हो रहा था। रोगी को मतली का अनुभव हो रहा था लेकिन उल्टी नहीं हुई थी। भूख में कमी और सामान्य कमजोरी भी बताई गई। मल त्याग सामान्य था। रोगी को मधुमेह या उच्च रक्तचाप का कोई ज्ञात इतिहास नहीं है। पूर्व में ऐसी कोई समान शिकायत नहीं थी। प्रवेश पर रक्त परीक्षण में श्वेत रक्त कोशिकाओं की संख्या बढ़ी हुई (14,500/µL) और सी-रिएक्टिव प्रोटीन (CRP) का स्तर ऊंचा पाया गया। पेट के अल्ट्रासाउंड में पित्ताशय की दीवार मोटी पाई गई और पित्ताशय के अंदर कुछ छोटे पित्त पथरी भी देखे गए।
+
+**शारीरिक जांच (प्रवेश पर):**
+*   **सामान्य स्थिति:** रोगी सचेत, समय-स्थान-व्यक्ति से अवगत, लेकिन दर्द के कारण असहज।
+*   **नाड़ी:** 88 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 130/80 mmHg।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 100.2°F (मौखिक)।
+*   **पेट की जांच:** पेट कोमलता से फैला हुआ, ऊपरी दाहिने क्वाड्रेंट में गंभीर कोमलता मौजूद। मर्फी का संकेत (Murphy's sign) सकारात्मक। गार्डिंग (guarding) या रीबाउंड टेंडरनेस (rebound tenderness) नहीं। आंत्र ध्वनियाँ सामान्य।
+*   **अन्य प्रणालियों",success,0.655,False,1681,8.91
+DS_000098,14361990-DS-15,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Augmentin / tramadol Attending: Chief Complaint: altered mental status Major Surgical or Invasive Procedure: None History of Present Illness: Mr is an w,dacd478138,"**डिस्चार्ज सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP/2023/12345
+*   **दाखिल होने की तिथि:** 15/10/2023
+*   **छुट्टी की तिथि:** 20/10/2023
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और बार-बार उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी, 55 वर्षीय पुरुष, पिछले 3 दिनों से पेट के ऊपरी हिस्से में लगातार दर्द और बार-बार उल्टी की शिकायत के साथ अस्पताल में भर्ती हुए। दर्द भोजन के बाद बढ़ जाता था और उल्टी में खाया हुआ भोजन तथा कभी-कभी पित्त जैसा तरल पदार्थ शामिल होता था। रोगी को पिछले 1 दिन से बुखार भी था, जो 101°F तक पहुंच गया था। भूख कम हो गई थी और कमजोरी महसूस हो रही थी। रोगी मधुमेह (DM) और उच्च रक्तचाप (HTN) का ज्ञात मामला है, जिसके लिए वह नियमित दवाएं ले रहा है, लेकिन पिछले 2 दिनों से उसने अपनी दवाएं नहीं ली थीं। धूम्रपान या शराब के सेवन का कोई इतिहास नहीं है।
+
+**शारीरिक जांच (भर्ती के समय):**
+*   **सामान्य स्थिति:** मध्यम रूप से बीमार लग रहा है
+*   **चेतना:** सचेत और समय-स्थान-व्यक्ति के प्रति उन्मुख
+*   **पल्स:** 98/मिनट, नियमित
+*   **रक्तचाप:** 130/80 mmHg
+*   **श्वसन दर:** 18/",success,0.6306,False,1137,8.98
+DS_000099,18876538-DS-14,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Abd Pain, Gallstones, Transfer Major Surgical or Invasive Procedure: lap cholecy",918aed2ee3,"**चिकित्सा नोट**
+
+**मरीज़ की जानकारी:**",flagged,0.641,True,39,8.77
+DS_000100,13573314-DS-27,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Sulfa (Sulfonamide Antibiotics) / IV Dye, Iodine Containing Contrast Media Attending: Chief Complaint: Shortness of breath and chest tightness Major Sur",dcf9558a91,"**चिकित्सा छुट्टी सारांश / रेडियोलॉजी नोट**
+
+**अस्पताल का नाम:** [जनरल अस्पताल का नाम, उदा. ""सरकारी जिला अस्पताल""]
+**विभाग:** सामान्य सर्जरी
+
+---
+
+**मरीज़ की जानकारी**
+
+*   **रोगी का नाम:** श्रीमती कमला देवी
+*   **आयु:** 55 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** GH/2023/12345
+*   **प्रवेश की तिथि:** 05/11/2023
+*   **छुट्टी की तिथि:** 09/11/2023
+*   **पता:** गांव रामपुर, जिला मेरठ
+*   **मोबाइल नंबर:** XXXXX-XXXXX
+*   **एलर्जी:** ज्ञात नहीं
+
+---
+
+**मुख्य शिकायत**
+
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तेज दर्द, उल्टी और हल्का बुखार।
+
+---
+
+**वर्तमान बीमारी का इतिहास**
+
+रोगी, एक 55 वर्षीय महिला, पिछले 3 दिनों से पेट के ऊपरी दाहिने चतुर्भुज में अचानक शुरू हुए तीव्र, लगातार दर्द की शिकायत के साथ अस्पताल में भर्ती हुई। दर्द धीरे-धीरे शुरू हुआ और समय के साथ बढ़ता गया, जो पीठ की ओर भी फैल रहा था। दर्द के साथ, उसे 2-3 बार उल्टी भी हुई, जिसमें भोजन के कण मौजूद थे, और साथ ही हल्का बुखार (लगभग 100°F) भी था। उसे पीलिया या गहरे रंग के मूत्र का कोई इतिहास नहीं था। रोगी ने घर पर सामान्य दर्द निवारक लिए थे, लेकिन उनसे कोई खास राहत नहीं मिली। पिछले चिकित्सा इतिहास में उच्च रक्तचाप के लिए दवाएं लेने का जिक्र है।
+
+---
+
+**शारीरिक जांच**
+
+*   **सामान्य स्थिति:** सचेत, समय और स्थान के प्रति सचेत।
+*   **महत्वपूर्ण संकेत:**
+    *   तापमान: 98.8°F (सामान्य होने पर)
+    *   पल्स: 82 बीट्स/मिनट, नियमित, अच्छी मात्रा।
+    *   रक्तचाप: 132/84 mmHg
+    *   श्वसन दर: 16 श्वास/मिनट
+    *   ऑक्सीजन संतृप्ति: 99% (कमरे की हवा में)
+*   **सिर और गर्दन:** सामान्य, लिम्फ नोड्स बढ़े हुए नहीं",success,0.6258,False,1494,9.83
+DS_000101,13393866-DS-21,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Latex / surgical glue / Tegaderm Attending: Chief Complaint: hepatic cysts Major Surgical or Invasive Procedure: lap unroofing hepatic cysts History of P,c88cd061c0,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** R-123456
+*   **दाखिल होने की तारीख:** 25 अक्टूबर",success,0.5187,False,187,8.88
+DS_000102,10030682-DS-13,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROSURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Cervical stenosis with spinal cord compression Major Surgical or Invasive Pr,882d1e9408,"**अस्पताल का नाम:** जन सेवा अस्पताल
+**मरीज़ का नाम:** रोगी श्रीमान रमेश कुमार
+**आयु:** 55 वर्ष
+**लिंग:** पुरुष
+**पंजीकरण संख्या:** OP-2023-12345
+**दिनांक:** 25 दिसंबर 2023
+**पता:** दिल्ली
+
+---
+
+**1. मरीज़ की जानकारी (Patient Information):**
+*   **नाम:** श्रीमान रमेश कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** 123, गांधी नगर, दिल्ली
+*   **पंजीकरण संख्या:** OP-2023-12345
+*   **परामर्श की तिथि:** 25 दिसंबर 2023
+
+**2. मुख्य शिकायत (Chief Complaint):**
+*   पिछले 3 महीनों से पेट के ऊपरी हिस्से में लगातार दर्द।
+*   भूख न लगना और पिछले 2 महीनों में लगभग 5 किलोग्राम वज़न कम होना।
+
+**3. वर्तमान बीमारी का इतिहास (History of Present Illness):**
+रोगी श्रीमान रमेश कुमार, एक 55 वर्षीय पुरुष, पिछले तीन महीनों से पेट के ऊपरी हिस्से में हल्के से मध्यम दर्द की शिकायत के साथ ओपीडी में उपस्थित हुए। दर्द भोजन के बाद बढ़ जाता है और कभी-कभी पीठ की ओर भी फैलता है। उन्हें पिछले दो महीनों से भूख में कमी का अनुभव हो रहा है, जिसके परिणामस्वरूप उनका वज़न लगभग 5 किलोग्राम कम हो गया है। रोगी ने कभी-कभी सुबह मतली और एक बार उल्टी होने की भी शिकायत की। उन्हें बुखार, पीलिया, या मल में खून आने की कोई शिकायत नहीं है। उन्होंने पहले एक स्थानीय चिकित्सक से परामर्श किया था और कुछ एंटासिड दवाएँ ली थीं, जिनसे उन्हें कोई उल्लेखनीय राहत नहीं मिली। रोगी को कोई ज्ञात एलर्जी नहीं है।
+
+**4. शारीरिक जांच (Physical Examination):**
+*   **सामान्य स्थिति:** मध्यम निर्मित, सतर्क, और सहयोग करने वाला।
+*   **महत्वपूर्ण संकेत:**
+    *   नाड़ी: 78 प्रति मिनट, नियमित।
+    *   रक्तचाप: 124/78 mmHg।
+    *   श्वसन दर: 16 प्रति मिनट।
+    *   तापमान: 98.4°F (एफेब्राइल)।
+*   **पेट:**
+    *   निरीक्षण: सामान्य, कोई विरूपता या सूजन",success,0.6057,False,1603,9.18
+DS_000103,11668146-DS-13,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: with PSC/AIH, UC s/p total colectomy with J pouch who now presents for living don",71bf70cd6b,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 385,
+        ""total_token_count"": 1884
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,25.23
+DS_000104,12668169-DS-21,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: abdominal fullness, confusion Major Surgical or Invasive Procedure: EGD with fee",9a13824ddf,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 377,
+        ""total_token_count"": 1876
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,12.53
+DS_000105,11631556-DS-19,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: ORTHOPAEDICS Allergies: amoxicillin Attending: Chief Complaint: Right intertrochanteric fracture Major Surgical or Invasive Procedure: Right trochanteric fixation nail Hist,2193ec7e77,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्रीमती X
+*   **पंजीकरण संख्या:** 12345678
+*   **आयु:** 55 वर्ष
+*   **लिंग:** महिला
+*   **पता:** दिल्ली
+*   **दाखिल होने की तिथि:** 10/05/2023
+*   **छुट्टी की तिथि:** 15/05/2023
+*   **चिकित्सक:** डॉ. आर. शर्मा (आंतरिक चिकित्सा विभाग)
+*   **एलर्जी:** कोई ज्ञात एलर्जी नहीं
+
+**मुख्य शिकायत:**
+पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और उल्टी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी",success,0.5681,False,470,12.51
+DS_000106,11629018-DS-10,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: chest pain Major Surgical or Invasive Procedure: cardiac catheterization History,e67240390f,"**राजकीय चिकित्सालय, दिल्ली**
+**आंतरिक चिकित्सा विभाग**
+
+**मरीज़ की छुट्टी का सारांश**
+
+---
+
+**1. मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OPD-12345
+*   **प्रवेश की तिथि:** 15/05/2024
+*   **छुट्टी की तिथि:** 18/05/2024
+*   **पता:** दिल्ली
+*   **परामर्शदाता चिकित्सक:** डॉ. शर्मा
+
+---
+
+**2. मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट में दर्द और उल्टी की शिकायत थी।
+
+---
+
+**3. वर्तमान बीमारी का इतिहास:**
+रोगी को लगभग 3 दिनों से ऊपरी पेट (एपिगैस्ट्रिक क्षेत्र) में लगातार हल्का दर्द हो रहा था। दर्द के साथ मतली और 2-3 बार उल्टी भी हुई, जिसमें भोजन के कण थे और पित्त नहीं था। रोगी को बुखार, दस्त या कब्ज की शिकायत नहीं थी। पूर्व में ऐसी कोई शिकायत या ज्ञात पुरानी बीमारी (जैसे उच्च रक्तचाप, मधुमेह, हृदय रोग) का इतिहास नहीं है। रोगी धूम्रपान या शराब का सेवन नहीं करता है। घर पर सामान्य पेट की दवाएं (एंटासिड) लेने से कोई खास राहत नहीं मिली, जिसके बाद रोगी को आपातकालीन विभाग में लाया गया।
+
+---
+
+**4. शारीरिक जांच (प्रवेश के समय):**
+*   **सामान्य स्थिति:** सचेत, सहयोगपूर्ण, सामान्य पोषण युक्त।
+*   **रक्तचाप:** 120/80 mmHg
+*   **नाड़ी:** 80 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** सामान्य (अफेब्राइल)।
+*   **पेट:** ऊपरी पेट में हल्का दर्द (टेंडरनेस), कोई गांठ या असामान्य उभार नहीं। बाउल साउंड्स सामान्य।
+*   **हृदय एवं श्वसन प्रणाली:** सामान्य।
+*   **अन्य प्रणालियां:** गैर-योगदानकारी।
+
+---
+
+**5",success,0.6391,False,1402,9.34
+DS_000107,10804175-DS-16,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: SURGERY Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: HCV Cirrhosis Major Surgical or Invasive Procedure: : Liver transplant : Stress t,1dd5adc831,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 385,
+        ""total_token_count"": 1884
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,12.69
+DS_000108,18034222-DS-15,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: NEUROLOGY Allergies: DHE45 / Amitriptyline / Droperidol Attending: Chief Complaint: headache Major Surgical or Invasive Procedure: none History of Present Illness: year old,dda5b15dbf,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 366,
+        ""total_token_count"": 1865
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.82
+DS_000109,14291446-DS-16,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: PLASTIC Allergies: Iodine-Iodine Containing / Codeine / Lanolin / wool Attending: Chief Complaint: Recurrent incisional hernia Major Surgical or Invasive Procedure: 1)Explo,730187d4bb,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 427,
+        ""total_token_count"": 1926
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,12.11
+DS_000110,12913417-DS-11,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: SURGERY Allergies: Indocin Attending: Chief Complaint: Left great toe ulcer with dry gangrene Major Surgical or Invasive Procedure: Balloon angioplasty of left anterior tib,39ef4feaa3,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 414,
+        ""total_token_count"": 1913
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,18.74
+DS_000111,11321446-DS-13,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: CARDIOTHORACIC Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: Shortness of breath Major Surgical or Invasive Procedure: 1 Redo sternotom,626866327f,"**डिस्चार्ज/रेडियोलॉजी नोट**
+
+**अस्पताल का नाम:** राजकीय सामान्य अस्पताल
+**दिनांक:** 15 दिसंबर, 2023
+**विभाग:** आंतरिक चिकित्सा
+
+---
+
+**1. मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP-2023-12345
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+---
+
+**2. मुख्य शिकायत (Chief Complaint):**
+रोगी पिछले 3 दिनों से पेट के ऊपरी हिस्से में दर्द और उल्टी की शिकायत के साथ ओपीडी में उपस्थित हुए।
+
+---
+
+**3. वर्तमान बीमारी का इतिहास (History of Present Illness):**
+रोगी को पिछले तीन दिनों से लगातार पेट के ऊपरी मध्य भाग (epigastric region) में दर्द हो रहा है, जो खाने के बाद बढ़ जाता है। दर्द की तीव्रता मध्यम से गंभीर है और यह पीठ की ओर नहीं फैलता है। रोगी को दिन में 2-3 बार उल्टी भी हो रही है, जिसमें खाया हुआ भोजन होता है। बुखार, दस्त या पीलिया की कोई शिकायत नहीं है। भूख में कमी और सामान्य कमजोरी महसूस होती है। रोगी ने स्थानीय चिकित्सक से परामर्श लिया था और दर्द निवारक दवाओं से आंशिक राहत मिली थी, जिसके बाद वे आगे के मूल्यांकन के लिए यहां आए हैं।
+
+---
+
+**4. शारीरिक जांच (Physical Examination):**
+*   **सामान्य स्थिति:** रोगी मध्यम रूप से बीमार लग रहा है, होश में और समय-स्थान-व्यक्ति के प्रति सचेत है।
+*   **रक्तचाप (BP):** 130/80 mmHg (दाएं हाथ में)
+*   **नाड़ी (Pulse):** 92 प्रति मिनट, नियमित, अच्छी मात्रा।
+*",success,0.6019,False,1271,9.06
+DS_000112,17889375-DS-2,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: Levofloxacin / Penicillins / Iodine / Clindamycin / Indocin / Allopurinol / Colchicine / gabapentin / IV Dye, Iodine Containing Contrast Media Attending",7e2dedfe29,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** 123456
+*   **दाखिला तिथि:** 15/03/2024
+*   **छुट्टी की तिथि:** 22/03/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** कोई ज्ञात एलर्जी नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द, पीलिया और हल्का बुखार की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को पिछले 3 दिनों से अचानक पेट के ऊपरी दाहिने हिस्से में तीव्र, लगातार दर्द महसूस हो रहा था, जो पीठ की ओर फैलता था। इस दर्द के साथ ही उन्हें पिछले 2 दिनों से आंखों और त्वचा में पीलापन (पीलिया) और हल्का बुखार (100°F) भी था। उन्हें भूख कम लग रही थी और हल्का जी मिचलाना भी था लेकिन उल्टी नहीं हुई। मल का रंग पीला और पेशाब का रंग गहरा था। रोगी को पहले से कोई बड़ी बीमारी या सर्जरी का इतिहास नहीं है।
+
+**शारीरिक जांच (दाखिले के समय):**
+*   **सामान्य स्थिति:** जागरूक, सचेत और समय-स्थान-व्यक्ति के प्रति उन्मुख",success,0.6609,False,932,9.01
+DS_000113,18614361-DS-15,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Sulfa (Sulfonamide Antibiotics) / Flagyl / Solu-Medrol / Ultram Attending: Chief Complaint: right hip and knee pain Major Surgical or Invasive Procedure,990277152d,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **रोगी का नाम:** श्री रमेश कुमार
+*   **आयु:** 55 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** REG/2024/005678
+*   **प्रवेश तिथि:** 10/05/2024
+*   **छुट्टी की तिथि:** 15/05/2024
+*   **पता",success,0.4538,False,249,9.39
+DS_000114,11912606-DS-16,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: ORTHOPAEDICS Allergies: Penicillins / Sulfa (Sulfonamide Antibiotics) / Percocet / Macrodantin / Bee Pollen / environmental / smoke / aspirin Attending: Chief Complaint: ri,fb6225b86b,"**चिकित्सा सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** रोगी
+*   **उम्र:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पंजीकरण संख्या:** OP/2024/78901
+*   **दाखिल होने की तिथि:** 08/02/2024
+*   **छुट्टी की तिथि:** 12/02/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** ज्ञात नहीं
+
+**मुख्य शिकायत:**
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द और मतली के साथ उल्टी की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+रोगी को 3 दिन पहले अचानक पेट के ऊपरी दाहिने हिस्से में तीव्र, लगातार दर्द शुरू हुआ, जो पीठ की ओर भी फैल रहा था। दर्द के साथ कई बार मतली और उल्टी भी हुई, जिसमें भोजन के कण मौजूद थे। रोगी को बुखार नहीं था और मल त्याग सामान्य था। कोई पीलिया या मूत्र संबंधी शिकायत नहीं बताई गई। रोगी ने पहले कभी ऐसा अनुभव नहीं किया था और किसी भी प्रकार की पुरानी बीमारी का कोई इतिहास नहीं बताया।
+
+**शारीरिक जांच (दाखिल होने पर):**
+*   **सामान्य स्थिति:** मध्यम रूप से स्वस्थ, सचेत और अभिविन्यासित। कोई तीव्र संकट नहीं।
+*   **नाड़ी:** 88 प्रति मिनट, नियमित, अच्छी मात्रा।
+*   **रक्तचाप:** 130/80 mmHg.
+*   **श्वसन दर:** 18 प्रति मिनट।
+*   **तापमान:** 98.6°F (सामान्य)।
+*   **पेट की जांच:**
+    *   **देखने पर:** सामान्य, कोई उभार या विवर्णता नहीं।
+    *   **स्पर्श करने पर:** दाहिने ऊपरी चतुर्थांश में कोमलता महसूस हुई, मर्फी का चिन्ह सकारात्मक था। कोई प्रतिबाधा या अंगवृद्धि नहीं।
+    *   **परकशन:** सामान्य टिम्पैनिक ध्वनि।
+    *   **ऑस्कल्टेशन:** आंत्र ध्वनियाँ सामान्य थीं।
+*   **अन्य प्रणालियों की जांच:** हृदय और श्वसन",success,0.6434,False,1416,8.82
+DS_000115,12488039-DS-20,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: CARDIOTHORACIC Allergies: oysters Attending: Chief Complaint: Increased lower extremity edema Major Surgical or Invasive Procedure: EGD Argon laser coagulator @ spontaneous,04c4e35e27,"**अस्पताल से छुट्टी का सारांश**
+
+**मरीज़ की जानकारी:**
+*   **नाम:** श्री रोगी
+*   **पंजीकरण संख्या:** 2023-56789
+*   **आयु:** 50 वर्ष
+*   **लिंग:** पुरुष
+*   **पता:** दिल्ली
+*   **दाखिले की तिथि:** 10/11/2023
+*   **छुट्टी की तिथि:** 15/11/2023
+*   **इलाज करने वाले चिकित्सक:** डॉ. अंजलि शर्मा
+*   **वार्ड:** सामान्य चिकित्सा
+
+**मुख्य शिकायत:**
+मरीज़ को पिछले 2 दिनों से पेट के ऊपरी हिस्से में तीव्र दर्द और मतली की शिकायत थी।
+
+**वर्तमान बीमारी का इतिहास:**
+श्री रोगी को 2 दिन पहले अचानक पेट के ऊपरी मध्य भाग (एपिगैस्ट्रिक क्षेत्र) में तेज, ऐंठन जैसा दर्द शुरू हुआ। दर्द लगातार बना हुआ था और भोजन",success,0.6118,False,595,9.34
+DS_000116,15898789-DS-4,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: ORTHOPAEDICS Allergies: Ace Inhibitors / Nickel / lisinopril / cats Attending: Chief Complaint: right hip pain Major Surgical or Invasive Procedure: right total hip replace,9ce1f5f223,"**अस्पताल से छुट्टी का सारांश**
+
+**अस्पताल का नाम:** सर्वोदय मल्टीस्पेशलिटी अस्पताल, दिल्ली
+**विभाग:** सामान्य चिकित्सा
+
+---
+
+**1. मरीज़ की जानकारी**
+
+*   **रोगी का नाम:** श्रीमती कमला देवी
+*   **आयु:** 68 वर्ष
+*   **लिंग:** महिला
+*   **पंजीकरण संख्या:** जीएम-2024-00789
+*   **दाखिल होने की तिथि:** 12/06/2024
+*   **छुट्टी की तिथि:** 17/06/2024
+*   **पता:** दिल्ली
+*   **एलर्जी:** पेनिसिलिन (ज्ञात)
+*   **उपचार करने वाले चिकित्सक:** डॉ. राजेश कुमार
+
+---
+
+**2. मुख्य शिकायत**
+
+रोगी को पिछले 3 दिनों से पेट के ऊपरी दाहिने हिस्से में तीव्र दर्द की शिकायत के साथ भर्ती किया गया था।
+
+---
+
+**3. वर्तमान बीमारी का इतिहास**
+
+रोगी को 3 दिन पहले अचानक पेट के ऊपरी दाहिने हिस्से में तीव्र, लगातार दर्द शुरू हुआ, जो धीरे-धीरे बढ़ा। दर्द पीठ की ओर विकीर्ण नहीं हो रहा था। दर्द के साथ मतली और उल्टी के दो एपिसोड भी हुए। रोगी को हल्का बुखार (100.2°F) भी था। उन्होंने स्थानीय फार्मेसी से कुछ दर्द निवारक दवाएं लीं, लेकिन कोई महत्वपूर्ण राहत नहीं मिली। पहले ऐसी कोई शिकायत नहीं थी। रोगी उच्च रक्तचाप (Hypertension) की मरीज हैं और पिछले 5 वर्षों से इसके लिए दवा ले रही हैं।
+
+---
+
+**4. शारीरिक जांच (भर्ती के समय)**
+
+*   **सामान्य स्थिति:** रोगी होश में, सचेत और समय-स्थान-व्यक्ति से अवगत। बेचैनी में।
+*   **रक्तचाप:** 140/90 mmHg
+*   **नाड़ी:** 96 प्रति मिनट, नियमित
+*   **श्वसन दर:** 20 प्रति मिनट
+*   **तापमान:** 100",success,0.6269,False,1300,10.0
+DS_000117,17491268-DS-11,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: M Service: MEDICINE Allergies: No Known Allergies / Adverse Drug Reactions Attending: Chief Complaint: abd pain, fever Major Surgical or Invasive Procedure: ERCP EGD with EUS PICC pla",39b373aa44,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 401,
+        ""total_token_count"": 1900
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.66
+DS_000118,18752975-DS-10,DS,"Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: Attending: Chief Complaint: Altered mental status Major Surgical or Invasive Procedure: None History of Present Illness: with dementia, HTN, Aflutter an",8e2fdee531,"response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""MAX_TOKENS"",
+          ""index"": 0
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 423,
+        ""total_token_count"": 1922
+      },
+      ""model_version"": ""gemini-2.5-flash""
+    }),
+)",flagged,0.0,False,445,9.26
+DS_000119,15362524-DS-7,DS,Name: Unit No: Admission Date: Discharge Date: Date of Birth: Sex: F Service: MEDICINE Allergies: iv contrast Attending: Chief Complaint: septicemia Major Surgical or Invasive Procedure: none History of Present Illness: Ms is a year-old woman s/p HD ,21a412ffe2,,flagged,0.0,True,0,0.0

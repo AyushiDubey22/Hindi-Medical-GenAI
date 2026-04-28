@@ -1,0 +1,4 @@
+Dataset,Total,Success,Success Rate (%),Avg Length
+Discharge,100,73,73.0,2018.1780821917807
+Radiology,100,71,71.0,2039.8450704225352
+Combined,200,144,72.0,2029.011576307158
