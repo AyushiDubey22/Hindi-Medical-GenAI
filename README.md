@@ -290,38 +290,6 @@ quality_score = validator.evaluate(hindi_text)
 - **Fairness Metrics:** Equal performance across demographics
 - **Robustness:** Performance on edge cases
 
-## 🗺️ Roadmap
-
-### Phase 1: Foundation (Weeks 1-2) ✅
-- [x] Environment setup
-- [x] Data collection and cleaning
-- [ ] Initial translation pipeline
-- [ ] Basic validation
-
-### Phase 2: Core Pipeline (Weeks 3-4)
-- [ ] Implement bias detection
-- [ ] Build error propagation detection
-- [ ] Optimize translation prompts
-- [ ] Scale to 1,000 samples
-
-### Phase 3: Evaluation (Weeks 5-6)
-- [ ] Comprehensive quality assessment
-- [ ] Bias analysis and mitigation
-- [ ] Error analysis and fixes
-- [ ] Performance benchmarking
-
-### Phase 4: Optimization (Weeks 7-8)
-- [ ] Cost optimization
-- [ ] Speed improvements
-- [ ] Quality refinement
-- [ ] Final evaluation
-
-### Phase 5: Documentation (Week 9)
-- [ ] Final report
-- [ ] Code documentation
-- [ ] Research paper draft
-- [ ] Presentation preparation
-
 ## 🤝 Contributing
 
 This is a research project. For questions or suggestions:
