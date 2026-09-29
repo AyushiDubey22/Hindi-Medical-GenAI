@@ -309,8 +309,7 @@ This is a research project. For questions or suggestions:
 
 1. Johnson, A., et al. (2023). MIMIC-IV Clinical Database
 2. Kakwani, D., et al. (2020). IndicNLPSuite
-3. [Add your other references]
-
+   
 ## 📞 Contact
 
 **Project Lead:** [Ayushi Dubey] 
